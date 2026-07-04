@@ -79,16 +79,7 @@
 
 综合潜力分计算逻辑如下：
 
-$$FinalPotentialScore =
-0.25 \times TrendScore
-
-* 0.20 \times ActivityScore
-* 0.15 \times CommunityScore
-* 0.15 \times DocumentationScore
-* 0.15 \times InnovationScore
-* 0.10 \times FeasibilityScore
-
-- 0.10 \times RiskScore$$
+$$FinalPotentialScore =0.25 \times TrendScore + 0.20 \times ActivityScore + 0.15 \times CommunityScore + 0.15 \times DocumentationScore + 0.15 \times InnovationScore + 0.10 \times FeasibilityScore - 0.10 \times RiskScore$$
 
 ---
 
