@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "accuracy_in_sample": 0.9679999947547913,
+  "loss_history": [
+    0.46913053654134274,
+    0.23025200562551618,
+    0.14540955354459584,
+    0.11328318284358829,
+    0.10266963508911431
+  ],
+  "loss_curve_path": "C:\\Users\\hp\\OneDrive\\Desktop\\大学\\课程期末\\python程序设计\\AgentRadar-Stat\\outputs\\figures\\torch_mlp_loss_curve.png",
+  "model_path": "C:\\Users\\hp\\OneDrive\\Desktop\\大学\\课程期末\\python程序设计\\AgentRadar-Stat\\outputs\\models\\torch_mlp.pt",
+  "baseline_model_path": "C:\\Users\\hp\\OneDrive\\Desktop\\大学\\课程期末\\python程序设计\\AgentRadar-Stat\\outputs\\models\\torch_mlp_baseline.pt",
+  "device": "cpu"
+}

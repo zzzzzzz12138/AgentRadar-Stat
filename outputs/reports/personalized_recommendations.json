@@ -1,0 +1,255 @@
+{
+  "profile": {
+    "user_role": "想选择学习/复现项目的开发者",
+    "main_goal": "选择可复现项目",
+    "programming_level": "中等",
+    "preferred_languages": [
+      "Python"
+    ],
+    "preferred_topics": [
+      "Coding Agent",
+      "RAG Agent"
+    ],
+    "hardware_condition": "CPU-only",
+    "risk_preference": "平衡",
+    "output_preference": [
+      "想要排行榜",
+      "想要三天复现路线",
+      "想要 Codex Prompt"
+    ]
+  },
+  "weights": {
+    "base_weight": 0.45,
+    "preference_weight": 0.1,
+    "feasibility_weight": 0.18,
+    "goal_weight": 0.1,
+    "language_weight": 0.07,
+    "topic_weight": 0.07,
+    "hardware_weight": 0.1,
+    "risk_penalty_weight": 0.14
+  },
+  "top_projects": [
+    {
+      "full_name": "agent-lab-00/rag-agent-radar-017",
+      "personalized_score": 91.852,
+      "base_score": 82.774,
+      "match_reasons": [
+        "语言匹配：Python 符合偏好。",
+        "复现可行性较好：文档与可行性信号较强。",
+        "硬件适配：CPU-only 下更容易启动。"
+      ],
+      "risk_warnings": [
+        "未发现明显高风险信号，但仍需检查许可证和运行环境。"
+      ],
+      "recommended_action": "生成 Codex 复现与二次开发任务，先跑通最小 demo。",
+      "three_day_plan": [
+        "Day 1: 阅读 agent-lab-00/rag-agent-radar-017 的 README、安装说明和示例，确认 Python/Node/硬件要求。",
+        "Day 2: 跑通最小 demo，记录依赖、报错、数据输入与输出截图。",
+        "Day 3: 做一个小改造或对比实验，整理复现路线、风险和 Codex 任务清单。"
+      ],
+      "codex_prompt": "请作为 Python/软件工程助教，帮我复现 GitHub 项目 agent-lab-00/rag-agent-radar-017：先梳理依赖和最小运行路径，再生成适合 Windows 11 本地普通电脑的三天复现计划，并标出可能失败的步骤。"
+    },
+    {
+      "full_name": "agent-lab-14/workflow-agent-radar-099",
+      "personalized_score": 89.968,
+      "base_score": 83.878,
+      "match_reasons": [
+        "语言匹配：Python 符合偏好。",
+        "复现可行性较好：文档与可行性信号较强。",
+        "硬件适配：CPU-only 下更容易启动。"
+      ],
+      "risk_warnings": [
+        "未发现明显高风险信号，但仍需检查许可证和运行环境。"
+      ],
+      "recommended_action": "生成 Codex 复现与二次开发任务，先跑通最小 demo。",
+      "three_day_plan": [
+        "Day 1: 阅读 agent-lab-14/workflow-agent-radar-099 的 README、安装说明和示例，确认 Python/Node/硬件要求。",
+        "Day 2: 跑通最小 demo，记录依赖、报错、数据输入与输出截图。",
+        "Day 3: 做一个小改造或对比实验，整理复现路线、风险和 Codex 任务清单。"
+      ],
+      "codex_prompt": "请作为 Python/软件工程助教，帮我复现 GitHub 项目 agent-lab-14/workflow-agent-radar-099：先梳理依赖和最小运行路径，再生成适合 Windows 11 本地普通电脑的三天复现计划，并标出可能失败的步骤。"
+    },
+    {
+      "full_name": "agent-lab-04/rag-agent-radar-089",
+      "personalized_score": 89.723,
+      "base_score": 77.991,
+      "match_reasons": [
+        "语言匹配：Python 符合偏好。",
+        "复现可行性较好：文档与可行性信号较强。",
+        "硬件适配：CPU-only 下更容易启动。"
+      ],
+      "risk_warnings": [
+        "未发现明显高风险信号，但仍需检查许可证和运行环境。"
+      ],
+      "recommended_action": "生成 Codex 复现与二次开发任务，先跑通最小 demo。",
+      "three_day_plan": [
+        "Day 1: 阅读 agent-lab-04/rag-agent-radar-089 的 README、安装说明和示例，确认 Python/Node/硬件要求。",
+        "Day 2: 跑通最小 demo，记录依赖、报错、数据输入与输出截图。",
+        "Day 3: 做一个小改造或对比实验，整理复现路线、风险和 Codex 任务清单。"
+      ],
+      "codex_prompt": "请作为 Python/软件工程助教，帮我复现 GitHub 项目 agent-lab-04/rag-agent-radar-089：先梳理依赖和最小运行路径，再生成适合 Windows 11 本地普通电脑的三天复现计划，并标出可能失败的步骤。"
+    },
+    {
+      "full_name": "agent-lab-08/workflow-agent-radar-059",
+      "personalized_score": 89.715,
+      "base_score": 81.187,
+      "match_reasons": [
+        "语言匹配：Python 符合偏好。",
+        "复现可行性较好：文档与可行性信号较强。",
+        "硬件适配：CPU-only 下更容易启动。"
+      ],
+      "risk_warnings": [
+        "未发现明显高风险信号，但仍需检查许可证和运行环境。"
+      ],
+      "recommended_action": "生成 Codex 复现与二次开发任务，先跑通最小 demo。",
+      "three_day_plan": [
+        "Day 1: 阅读 agent-lab-08/workflow-agent-radar-059 的 README、安装说明和示例，确认 Python/Node/硬件要求。",
+        "Day 2: 跑通最小 demo，记录依赖、报错、数据输入与输出截图。",
+        "Day 3: 做一个小改造或对比实验，整理复现路线、风险和 Codex 任务清单。"
+      ],
+      "codex_prompt": "请作为 Python/软件工程助教，帮我复现 GitHub 项目 agent-lab-08/workflow-agent-radar-059：先梳理依赖和最小运行路径，再生成适合 Windows 11 本地普通电脑的三天复现计划，并标出可能失败的步骤。"
+    },
+    {
+      "full_name": "agent-lab-15/coding-agent-radar-032",
+      "personalized_score": 88.78,
+      "base_score": 75.452,
+      "match_reasons": [
+        "语言匹配：Python 符合偏好。",
+        "复现可行性较好：文档与可行性信号较强。",
+        "硬件适配：CPU-only 下更容易启动。"
+      ],
+      "risk_warnings": [
+        "未发现明显高风险信号，但仍需检查许可证和运行环境。"
+      ],
+      "recommended_action": "生成 Codex 复现与二次开发任务，先跑通最小 demo。",
+      "three_day_plan": [
+        "Day 1: 阅读 agent-lab-15/coding-agent-radar-032 的 README、安装说明和示例，确认 Python/Node/硬件要求。",
+        "Day 2: 跑通最小 demo，记录依赖、报错、数据输入与输出截图。",
+        "Day 3: 做一个小改造或对比实验，整理复现路线、风险和 Codex 任务清单。"
+      ],
+      "codex_prompt": "请作为 Python/软件工程助教，帮我复现 GitHub 项目 agent-lab-15/coding-agent-radar-032：先梳理依赖和最小运行路径，再生成适合 Windows 11 本地普通电脑的三天复现计划，并标出可能失败的步骤。"
+    },
+    {
+      "full_name": "agent-lab-04/coding-agent-radar-072",
+      "personalized_score": 88.772,
+      "base_score": 79.667,
+      "match_reasons": [
+        "语言匹配：Python 符合偏好。",
+        "复现可行性较好：文档与可行性信号较强。",
+        "硬件适配：CPU-only 下更容易启动。"
+      ],
+      "risk_warnings": [
+        "未发现明显高风险信号，但仍需检查许可证和运行环境。"
+      ],
+      "recommended_action": "生成 Codex 复现与二次开发任务，先跑通最小 demo。",
+      "three_day_plan": [
+        "Day 1: 阅读 agent-lab-04/coding-agent-radar-072 的 README、安装说明和示例，确认 Python/Node/硬件要求。",
+        "Day 2: 跑通最小 demo，记录依赖、报错、数据输入与输出截图。",
+        "Day 3: 做一个小改造或对比实验，整理复现路线、风险和 Codex 任务清单。"
+      ],
+      "codex_prompt": "请作为 Python/软件工程助教，帮我复现 GitHub 项目 agent-lab-04/coding-agent-radar-072：先梳理依赖和最小运行路径，再生成适合 Windows 11 本地普通电脑的三天复现计划，并标出可能失败的步骤。"
+    },
+    {
+      "full_name": "agent-lab-06/rag-agent-radar-057",
+      "personalized_score": 88.519,
+      "base_score": 75.591,
+      "match_reasons": [
+        "语言匹配：Python 符合偏好。",
+        "复现可行性较好：文档与可行性信号较强。",
+        "硬件适配：CPU-only 下更容易启动。"
+      ],
+      "risk_warnings": [
+        "未发现明显高风险信号，但仍需检查许可证和运行环境。"
+      ],
+      "recommended_action": "生成 Codex 复现与二次开发任务，先跑通最小 demo。",
+      "three_day_plan": [
+        "Day 1: 阅读 agent-lab-06/rag-agent-radar-057 的 README、安装说明和示例，确认 Python/Node/硬件要求。",
+        "Day 2: 跑通最小 demo，记录依赖、报错、数据输入与输出截图。",
+        "Day 3: 做一个小改造或对比实验，整理复现路线、风险和 Codex 任务清单。"
+      ],
+      "codex_prompt": "请作为 Python/软件工程助教，帮我复现 GitHub 项目 agent-lab-06/rag-agent-radar-057：先梳理依赖和最小运行路径，再生成适合 Windows 11 本地普通电脑的三天复现计划，并标出可能失败的步骤。"
+    },
+    {
+      "full_name": "agent-lab-01/rag-agent-radar-137",
+      "personalized_score": 88.476,
+      "base_score": 76.45,
+      "match_reasons": [
+        "语言匹配：Python 符合偏好。",
+        "复现可行性较好：文档与可行性信号较强。",
+        "硬件适配：CPU-only 下更容易启动。"
+      ],
+      "risk_warnings": [
+        "未发现明显高风险信号，但仍需检查许可证和运行环境。"
+      ],
+      "recommended_action": "生成 Codex 复现与二次开发任务，先跑通最小 demo。",
+      "three_day_plan": [
+        "Day 1: 阅读 agent-lab-01/rag-agent-radar-137 的 README、安装说明和示例，确认 Python/Node/硬件要求。",
+        "Day 2: 跑通最小 demo，记录依赖、报错、数据输入与输出截图。",
+        "Day 3: 做一个小改造或对比实验，整理复现路线、风险和 Codex 任务清单。"
+      ],
+      "codex_prompt": "请作为 Python/软件工程助教，帮我复现 GitHub 项目 agent-lab-01/rag-agent-radar-137：先梳理依赖和最小运行路径，再生成适合 Windows 11 本地普通电脑的三天复现计划，并标出可能失败的步骤。"
+    },
+    {
+      "full_name": "agent-lab-11/workflow-agent-radar-147",
+      "personalized_score": 87.716,
+      "base_score": 80.722,
+      "match_reasons": [
+        "语言匹配：Python 符合偏好。",
+        "复现可行性较好：文档与可行性信号较强。",
+        "硬件适配：CPU-only 下更容易启动。"
+      ],
+      "risk_warnings": [
+        "未发现明显高风险信号，但仍需检查许可证和运行环境。"
+      ],
+      "recommended_action": "生成 Codex 复现与二次开发任务，先跑通最小 demo。",
+      "three_day_plan": [
+        "Day 1: 阅读 agent-lab-11/workflow-agent-radar-147 的 README、安装说明和示例，确认 Python/Node/硬件要求。",
+        "Day 2: 跑通最小 demo，记录依赖、报错、数据输入与输出截图。",
+        "Day 3: 做一个小改造或对比实验，整理复现路线、风险和 Codex 任务清单。"
+      ],
+      "codex_prompt": "请作为 Python/软件工程助教，帮我复现 GitHub 项目 agent-lab-11/workflow-agent-radar-147：先梳理依赖和最小运行路径，再生成适合 Windows 11 本地普通电脑的三天复现计划，并标出可能失败的步骤。"
+    },
+    {
+      "full_name": "agent-lab-01/coding-agent-radar-120",
+      "personalized_score": 87.605,
+      "base_score": 100.0,
+      "match_reasons": [
+        "语言匹配：Python 符合偏好。",
+        "复现可行性较好：文档与可行性信号较强。"
+      ],
+      "risk_warnings": [
+        "未发现明显高风险信号，但仍需检查许可证和运行环境。"
+      ],
+      "recommended_action": "生成 Codex 复现与二次开发任务，先跑通最小 demo。",
+      "three_day_plan": [
+        "Day 1: 阅读 agent-lab-01/coding-agent-radar-120 的 README、安装说明和示例，确认 Python/Node/硬件要求。",
+        "Day 2: 跑通最小 demo，记录依赖、报错、数据输入与输出截图。",
+        "Day 3: 做一个小改造或对比实验，整理复现路线、风险和 Codex 任务清单。"
+      ],
+      "codex_prompt": "请作为 Python/软件工程助教，帮我复现 GitHub 项目 agent-lab-01/coding-agent-radar-120：先梳理依赖和最小运行路径，再生成适合 Windows 11 本地普通电脑的三天复现计划，并标出可能失败的步骤。"
+    }
+  ],
+  "not_recommended_even_if_popular": [
+    {
+      "full_name": "agent-lab-10/data-agent-radar-095",
+      "reason": "通用评分高，但个性化匹配较低。 语言偏好不匹配。"
+    },
+    {
+      "full_name": "agent-lab-16/research-agent-radar-050",
+      "reason": "通用评分高，但个性化匹配较低。 语言偏好不匹配。"
+    },
+    {
+      "full_name": "agent-lab-15/data-agent-radar-015",
+      "reason": "通用评分高，但个性化匹配较低。 语言偏好不匹配。"
+    },
+    {
+      "full_name": "agent-lab-15/mcp-tool-radar-100",
+      "reason": "通用评分高，但个性化匹配较低。 语言偏好不匹配。"
+    },
+    {
+      "full_name": "agent-lab-10/research-agent-radar-010",
+      "reason": "通用评分高，但个性化匹配较低。 语言偏好不匹配。"
+    }
+  ],
+  "output_path": "C:\\Users\\hp\\OneDrive\\Desktop\\大学\\课程期末\\python程序设计\\AgentRadar-Stat\\outputs\\reports\\personalized_recommendations.csv"
+}

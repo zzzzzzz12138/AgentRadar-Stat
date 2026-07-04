@@ -1,0 +1,77 @@
+{
+  "cluster_count": 5,
+  "pca_explained_var_1": 0.2808362422743837,
+  "pca_explained_var_2": 0.23058183439236865,
+  "clusters": [
+    {
+      "cluster_label": 0,
+      "cluster_name": "概念新颖但工程不成熟型",
+      "count": 9,
+      "avg_final_potential_score": 26.375531479249336,
+      "avg_risk_score": 42.77777777777778,
+      "representative_projects": [
+        "lightgbm-org/LightGBM",
+        "HumanSignal/labelImg",
+        "tensorflow/tfjs",
+        "microsoft/nni",
+        "Hannibal046/Awesome-LLM"
+      ]
+    },
+    {
+      "cluster_label": 1,
+      "cluster_name": "概念新颖但工程不成熟型",
+      "count": 19,
+      "avg_final_potential_score": 45.07617114053577,
+      "avg_risk_score": 8.421052631578947,
+      "representative_projects": [
+        "ohmyzsh/ohmyzsh",
+        "nextlevelbuilder/ui-ux-pro-max-skill",
+        "f/prompts.chat",
+        "langchain-ai/langchain",
+        "firecrawl/firecrawl"
+      ]
+    },
+    {
+      "cluster_label": 2,
+      "cluster_name": "新兴爆发潜力型",
+      "count": 32,
+      "avg_final_potential_score": 51.49683692929823,
+      "avg_risk_score": 31.5625,
+      "representative_projects": [
+        "awesome-selfhosted/awesome-selfhosted",
+        "punkpeye/awesome-mcp-servers",
+        "avelino/awesome-go",
+        "jaywcjlove/awesome-mac",
+        "open-webui/open-webui"
+      ]
+    },
+    {
+      "cluster_label": 3,
+      "cluster_name": "概念新颖但工程不成熟型",
+      "count": 27,
+      "avg_final_potential_score": 44.26249110893522,
+      "avg_risk_score": 19.444444444444443,
+      "representative_projects": [
+        "msitarzewski/agency-agents",
+        "sindresorhus/awesome",
+        "vinta/awesome-python",
+        "garrytan/gstack",
+        "anthropics/skills"
+      ]
+    },
+    {
+      "cluster_label": 4,
+      "cluster_name": "文档完善可复现型",
+      "count": 11,
+      "avg_final_potential_score": 58.78048873399252,
+      "avg_risk_score": 11.363636363636363,
+      "representative_projects": [
+        "langgenius/dify",
+        "public-apis/public-apis",
+        "Significant-Gravitas/AutoGPT",
+        "nilbuild/developer-roadmap",
+        "jwasham/coding-interview-university"
+      ]
+    }
+  ]
+}

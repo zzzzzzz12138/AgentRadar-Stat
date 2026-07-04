@@ -1,0 +1,21 @@
+{
+  "status": "ok",
+  "model_name": "TabularWideDeepNet",
+  "task": "task_b_proxy_good_project",
+  "train_size": 105,
+  "valid_size": 22,
+  "test_size": 23,
+  "best_epoch": 2,
+  "early_stop_epoch": 2,
+  "valid_auc": 0.9285714285714285,
+  "valid_f1": 0.9285714285714286,
+  "test_auc": 0.9603174603174603,
+  "test_f1": 0.9629629629629629,
+  "test_loss": 0.5990766286849976,
+  "parameter_count": 4229,
+  "training_seconds": 4.482,
+  "device": "cpu",
+  "model_path": "C:\\Users\\hp\\OneDrive\\Desktop\\大学\\课程期末\\python程序设计\\AgentRadar-Stat\\outputs\\models\\torch_tabular_widedeep.pt",
+  "history_path": "C:\\Users\\hp\\OneDrive\\Desktop\\大学\\课程期末\\python程序设计\\AgentRadar-Stat\\outputs\\reports\\torch_training_history.csv",
+  "training_curve_path": "C:\\Users\\hp\\OneDrive\\Desktop\\大学\\课程期末\\python程序设计\\AgentRadar-Stat\\outputs\\figures\\torch_training_curve.png"
+}

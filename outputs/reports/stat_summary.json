@@ -1,0 +1,240 @@
+{
+  "sample_size": 500,
+  "source_type_counts": {
+    "api_live": 500
+  },
+  "api_live_ratio": 1.0,
+  "language_distribution": {
+    "Python": 201,
+    "TypeScript": 106,
+    "Unknown": 55,
+    "Jupyter Notebook": 27,
+    "Rust": 22,
+    "JavaScript": 20,
+    "Go": 20,
+    "Shell": 11,
+    "HTML": 9,
+    "C#": 6,
+    "MDX": 4,
+    "Java": 4,
+    "Kotlin": 2,
+    "Elixir": 2,
+    "Ruby": 2
+  },
+  "describe": {
+    "stars_total": {
+      "count": 500.0,
+      "mean": 23102.202,
+      "std": 39214.885,
+      "min": 0.0,
+      "25%": 5.0,
+      "50%": 4472.5,
+      "75%": 28650.25,
+      "max": 245503.0
+    },
+    "forks_total": {
+      "count": 500.0,
+      "mean": 3685.428,
+      "std": 8325.055,
+      "min": 0.0,
+      "25%": 1.0,
+      "50%": 690.5,
+      "75%": 3865.25,
+      "max": 109846.0
+    },
+    "open_issues_count": {
+      "count": 500.0,
+      "mean": 292.474,
+      "std": 1360.635,
+      "min": 0.0,
+      "25%": 2.0,
+      "50%": 22.5,
+      "75%": 166.25,
+      "max": 25426.0
+    },
+    "readme_length": {
+      "count": 500.0,
+      "mean": 5980.772,
+      "std": 20899.868,
+      "min": 0.0,
+      "25%": 0.0,
+      "50%": 0.0,
+      "75%": 4949.0,
+      "max": 364613.0
+    },
+    "final_potential_score": {
+      "count": 500.0,
+      "mean": 37.138,
+      "std": 11.825,
+      "min": 12.456,
+      "25%": 27.529,
+      "50%": 36.78,
+      "75%": 43.465,
+      "max": 70.729
+    },
+    "risk_score": {
+      "count": 500.0,
+      "mean": 24.18,
+      "std": 14.441,
+      "min": 0.0,
+      "25%": 20.0,
+      "50%": 20.0,
+      "75%": 40.0,
+      "max": 80.0
+    }
+  },
+  "correlation": {
+    "stars_total": {
+      "stars_total": 1.0,
+      "forks_total": 0.79,
+      "open_issues_count": 0.404,
+      "readme_length": 0.213,
+      "final_potential_score": 0.703,
+      "risk_score": -0.262
+    },
+    "forks_total": {
+      "stars_total": 0.79,
+      "forks_total": 1.0,
+      "open_issues_count": 0.306,
+      "readme_length": 0.149,
+      "final_potential_score": 0.546,
+      "risk_score": -0.224
+    },
+    "open_issues_count": {
+      "stars_total": 0.404,
+      "forks_total": 0.306,
+      "open_issues_count": 1.0,
+      "readme_length": 0.084,
+      "final_potential_score": 0.257,
+      "risk_score": 0.107
+    },
+    "readme_length": {
+      "stars_total": 0.213,
+      "forks_total": 0.149,
+      "open_issues_count": 0.084,
+      "readme_length": 1.0,
+      "final_potential_score": 0.393,
+      "risk_score": -0.018
+    },
+    "final_potential_score": {
+      "stars_total": 0.703,
+      "forks_total": 0.546,
+      "open_issues_count": 0.257,
+      "readme_length": 0.393,
+      "final_potential_score": 1.0,
+      "risk_score": -0.44
+    },
+    "risk_score": {
+      "stars_total": -0.262,
+      "forks_total": -0.224,
+      "open_issues_count": 0.107,
+      "readme_length": -0.018,
+      "final_potential_score": -0.44,
+      "risk_score": 1.0
+    }
+  },
+  "top_potential": [
+    {
+      "full_name": "punkpeye/awesome-mcp-servers",
+      "final_potential_score": 70.7293866476856,
+      "recommendation_level": "A"
+    },
+    {
+      "full_name": "langgenius/dify",
+      "final_potential_score": 70.44300574646184,
+      "recommendation_level": "A"
+    },
+    {
+      "full_name": "Significant-Gravitas/AutoGPT",
+      "final_potential_score": 68.85328435885286,
+      "recommendation_level": "A"
+    },
+    {
+      "full_name": "bytedance/deer-flow",
+      "final_potential_score": 66.08574312478771,
+      "recommendation_level": "A"
+    },
+    {
+      "full_name": "hiyouga/LlamaFactory",
+      "final_potential_score": 65.11877859524179,
+      "recommendation_level": "A"
+    },
+    {
+      "full_name": "opendatalab/MinerU",
+      "final_potential_score": 64.65282807593412,
+      "recommendation_level": "A"
+    },
+    {
+      "full_name": "n8n-io/n8n",
+      "final_potential_score": 64.54697530638573,
+      "recommendation_level": "A"
+    },
+    {
+      "full_name": "affaan-m/ECC",
+      "final_potential_score": 64.0598676457055,
+      "recommendation_level": "A"
+    },
+    {
+      "full_name": "farion1231/cc-switch",
+      "final_potential_score": 63.47044596017133,
+      "recommendation_level": "A"
+    },
+    {
+      "full_name": "open-webui/open-webui",
+      "final_potential_score": 62.52051853391696,
+      "recommendation_level": "A"
+    }
+  ],
+  "top_risk": [
+    {
+      "full_name": "e2b-dev/awesome-ai-agents",
+      "risk_score": 80.0,
+      "api_status": "ok"
+    },
+    {
+      "full_name": "bhancockio/agent-development-kit-crash-course",
+      "risk_score": 70.0,
+      "api_status": "ok"
+    },
+    {
+      "full_name": "viktoriasemaan/multi-agent",
+      "risk_score": 70.0,
+      "api_status": "ok"
+    },
+    {
+      "full_name": "KennethanCeyer/awesome-llmops",
+      "risk_score": 70.0,
+      "api_status": "ok"
+    },
+    {
+      "full_name": "LinkedInLearning/model-context-protocol-mcp-hands-on-with-agentic-ai-2034200",
+      "risk_score": 70.0,
+      "api_status": "ok"
+    },
+    {
+      "full_name": "AbhinavTheDev/coding-agent",
+      "risk_score": 70.0,
+      "api_status": "ok"
+    },
+    {
+      "full_name": "HIDORAKAI002/ai-workspace-archive",
+      "risk_score": 55.00000000000001,
+      "api_status": "ok"
+    },
+    {
+      "full_name": "NousResearch/hermes-agent",
+      "risk_score": 55.00000000000001,
+      "api_status": "ok"
+    },
+    {
+      "full_name": "hherb/kastellan",
+      "risk_score": 55.00000000000001,
+      "api_status": "ok"
+    },
+    {
+      "full_name": "mhyrr/sketchup-mcp",
+      "risk_score": 45.0,
+      "api_status": "ok"
+    }
+  ]
+}

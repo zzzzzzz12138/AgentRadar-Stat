@@ -1,0 +1,18 @@
+{
+  "method": "Adjusted Rand Index across KMeans seeds",
+  "mean_ari": 0.9892694019003131,
+  "min_ari": 0.9892694019003131,
+  "max_ari": 0.9892694019003131,
+  "best_cluster_model": {
+    "model": "kmeans",
+    "k": 3,
+    "n_clusters_observed": 3,
+    "silhouette": 0.3314394168321329,
+    "calinski_harabasz": 65.89151105386046,
+    "davies_bouldin": 1.1748291782431624,
+    "bic": NaN,
+    "aic": NaN,
+    "selection_score": 0.3262802761550873,
+    "reason": "selected by combined selection_score: silhouette first, Calinski-Harabasz reward, Davies-Bouldin penalty"
+  }
+}

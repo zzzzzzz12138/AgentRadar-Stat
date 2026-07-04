@@ -1,0 +1,105 @@
+github:
+  base_url: https://api.github.com
+  timeout: 20
+  retries: 2
+  per_page: 50
+  sort: stars
+  order: desc
+  max_repos: 500
+  per_keyword_limit: 50
+  max_readme_repos: 300
+  collect_prs: false
+  search_strategies:
+    - sort: stars
+      order: desc
+    - sort: updated
+      order: desc
+    - sort: forks
+      order: desc
+    - sort: best_match
+      order: desc
+deepseek:
+  base_url: https://api.deepseek.com
+  model: deepseek-v4-pro
+  use_agents: true
+  timeout: 45
+  temperature: 0.2
+  max_tokens: 900
+collection:
+  keywords:
+    - ai-agent
+    - llm-agent
+    - agentic-ai
+    - multi-agent
+    - autonomous-agent
+    - coding-agent
+    - code-agent
+    - software-agent
+    - dev-agent
+    - rag-agent
+    - retrieval-augmented-generation
+    - llmops
+    - mcp
+    - model-context-protocol
+    - workflow-agent
+    - research-agent
+    - browser-agent
+    - data-agent
+    - data-analysis-agent
+    - autogpt
+    - babyagi
+    - langchain-agent
+    - crewai
+    - autogen
+    - semantic-kernel
+    - openai-agent
+    - local-llm-agent
+    - computer-use
+    - ai-coding
+    - vibe-coding
+    - agent-framework
+    - langchain
+    - codex
+    - copilot
+  offline_fallback: true
+  max_agent_repos: 40
+  seed_repositories:
+    - langgenius/dify
+    - Significant-Gravitas/AutoGPT
+    - crewAIInc/crewAI
+    - microsoft/autogen
+    - langchain-ai/langgraph
+    - All-Hands-AI/OpenHands
+    - geekan/MetaGPT
+    - microsoft/semantic-kernel
+    - SuperAGI/SuperAGI
+    - openai/openai-agents-python
+    - modelcontextprotocol/servers
+    - punkpeye/awesome-mcp-servers
+scoring:
+  weights:
+    trend_score: 0.25
+    activity_score: 0.20
+    community_score: 0.15
+    documentation_score: 0.15
+    innovation_score: 0.15
+    feasibility_score: 0.10
+    risk_score: -0.10
+modeling:
+  random_state: 42
+  test_size: 0.25
+  torch_epochs: 5
+paths:
+  raw_repos: data/raw/github_repos_raw.csv
+  raw_readmes: data/raw/readme_texts.csv
+  collection_log: data/raw/api_collection_log.json
+  sample_repos: data/sample/sample_trending_projects.csv
+  cleaned_repos: data/processed/cleaned_repos.csv
+  feature_repos: data/processed/feature_repos.csv
+  scored_repos: data/processed/scored_repos.csv
+  clustered_repos: data/processed/clustered_repos.csv
+  figures_dir: outputs/figures
+  reports_dir: outputs/reports
+  dashboards_dir: outputs/dashboards
+  models_dir: outputs/models
+  agents_dir: outputs/agents

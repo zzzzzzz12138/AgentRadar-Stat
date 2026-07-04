@@ -1,0 +1,515 @@
+{
+  "started_at": "2026-07-03T23:21:37.606759+00:00",
+  "mode": "api_live",
+  "requested_keywords": [
+    "ai-agent",
+    "llm-agent",
+    "agentic-ai",
+    "multi-agent",
+    "autonomous-agent",
+    "coding-agent",
+    "code-agent",
+    "software-agent",
+    "dev-agent",
+    "rag-agent",
+    "retrieval-augmented-generation",
+    "llmops",
+    "mcp",
+    "model-context-protocol",
+    "workflow-agent",
+    "research-agent",
+    "browser-agent",
+    "data-agent",
+    "data-analysis-agent",
+    "autogpt",
+    "babyagi",
+    "langchain-agent",
+    "crewai",
+    "autogen",
+    "semantic-kernel",
+    "openai-agent",
+    "local-llm-agent",
+    "computer-use",
+    "ai-coding",
+    "vibe-coding",
+    "agent-framework",
+    "langchain",
+    "codex",
+    "copilot"
+  ],
+  "search_strategies": [
+    {
+      "sort": "stars",
+      "order": "desc"
+    },
+    {
+      "sort": "updated",
+      "order": "desc"
+    },
+    {
+      "sort": "forks",
+      "order": "desc"
+    },
+    {
+      "sort": "best_match",
+      "order": "desc"
+    }
+  ],
+  "per_keyword_limit": 50,
+  "max_repos": 500,
+  "max_readme_repos": 300,
+  "seed_repos_requested": [
+    "langgenius/dify",
+    "Significant-Gravitas/AutoGPT",
+    "crewAIInc/crewAI",
+    "microsoft/autogen",
+    "langchain-ai/langgraph",
+    "All-Hands-AI/OpenHands",
+    "geekan/MetaGPT",
+    "microsoft/semantic-kernel",
+    "SuperAGI/SuperAGI",
+    "openai/openai-agents-python",
+    "modelcontextprotocol/servers",
+    "punkpeye/awesome-mcp-servers"
+  ],
+  "keywords": [
+    {
+      "keyword": "ai-agent",
+      "strategies": [
+        {
+          "sort": "stars",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "updated",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "forks",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "best_match",
+          "order": "desc",
+          "rows": 50
+        }
+      ]
+    },
+    {
+      "keyword": "llm-agent",
+      "strategies": [
+        {
+          "sort": "stars",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "updated",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "forks",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "best_match",
+          "order": "desc",
+          "rows": 50
+        }
+      ]
+    },
+    {
+      "keyword": "agentic-ai",
+      "strategies": [
+        {
+          "sort": "stars",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "updated",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "forks",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "best_match",
+          "order": "desc",
+          "rows": 50
+        }
+      ]
+    },
+    {
+      "keyword": "multi-agent",
+      "strategies": [
+        {
+          "sort": "stars",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "updated",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "forks",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "best_match",
+          "order": "desc",
+          "rows": 50
+        }
+      ]
+    },
+    {
+      "keyword": "autonomous-agent",
+      "strategies": [
+        {
+          "sort": "stars",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "updated",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "forks",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "best_match",
+          "order": "desc",
+          "rows": 50
+        }
+      ]
+    },
+    {
+      "keyword": "coding-agent",
+      "strategies": [
+        {
+          "sort": "stars",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "updated",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "forks",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "best_match",
+          "order": "desc",
+          "rows": 50
+        }
+      ]
+    },
+    {
+      "keyword": "code-agent",
+      "strategies": [
+        {
+          "sort": "stars",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "updated",
+          "order": "desc",
+          "rows": 0
+        },
+        {
+          "sort": "forks",
+          "order": "desc",
+          "rows": 0
+        },
+        {
+          "sort": "best_match",
+          "order": "desc",
+          "rows": 0
+        }
+      ]
+    },
+    {
+      "keyword": "software-agent",
+      "strategies": [
+        {
+          "sort": "stars",
+          "order": "desc",
+          "rows": 0
+        },
+        {
+          "sort": "updated",
+          "order": "desc",
+          "rows": 0
+        },
+        {
+          "sort": "forks",
+          "order": "desc",
+          "rows": 0
+        },
+        {
+          "sort": "best_match",
+          "order": "desc",
+          "rows": 0
+        }
+      ]
+    },
+    {
+      "keyword": "dev-agent",
+      "strategies": [
+        {
+          "sort": "stars",
+          "order": "desc",
+          "rows": 0
+        },
+        {
+          "sort": "updated",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "forks",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "best_match",
+          "order": "desc",
+          "rows": 50
+        }
+      ]
+    },
+    {
+      "keyword": "rag-agent",
+      "strategies": [
+        {
+          "sort": "stars",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "updated",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "forks",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "best_match",
+          "order": "desc",
+          "rows": 50
+        }
+      ]
+    },
+    {
+      "keyword": "retrieval-augmented-generation",
+      "strategies": [
+        {
+          "sort": "stars",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "updated",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "forks",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "best_match",
+          "order": "desc",
+          "rows": 50
+        }
+      ]
+    },
+    {
+      "keyword": "llmops",
+      "strategies": [
+        {
+          "sort": "stars",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "updated",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "forks",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "best_match",
+          "order": "desc",
+          "rows": 50
+        }
+      ]
+    },
+    {
+      "keyword": "mcp",
+      "strategies": [
+        {
+          "sort": "stars",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "updated",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "forks",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "best_match",
+          "order": "desc",
+          "rows": 50
+        }
+      ]
+    },
+    {
+      "keyword": "model-context-protocol",
+      "strategies": [
+        {
+          "sort": "stars",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "updated",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "forks",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "best_match",
+          "order": "desc",
+          "rows": 50
+        }
+      ]
+    },
+    {
+      "keyword": "workflow-agent",
+      "strategies": [
+        {
+          "sort": "stars",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "updated",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "forks",
+          "order": "desc",
+          "rows": 50
+        },
+        {
+          "sort": "best_match",
+          "order": "desc",
+          "rows": 50
+        }
+      ]
+    }
+  ],
+  "strategy_warnings": [
+    "strategy skipped or returned no rows: keyword=code-agent, sort=updated",
+    "strategy skipped or returned no rows: keyword=code-agent, sort=forks",
+    "strategy skipped or returned no rows: keyword=code-agent, sort=best_match",
+    "strategy skipped or returned no rows: keyword=software-agent, sort=stars",
+    "strategy skipped or returned no rows: keyword=software-agent, sort=updated",
+    "strategy skipped or returned no rows: keyword=software-agent, sort=forks",
+    "strategy skipped or returned no rows: keyword=software-agent, sort=best_match",
+    "strategy skipped or returned no rows: keyword=dev-agent, sort=stars"
+  ],
+  "raw_items_before_dedup": 2611,
+  "seed_repos_success": [
+    "langgenius/dify",
+    "Significant-Gravitas/AutoGPT",
+    "crewAIInc/crewAI",
+    "microsoft/autogen",
+    "langchain-ai/langgraph",
+    "All-Hands-AI/OpenHands",
+    "geekan/MetaGPT",
+    "microsoft/semantic-kernel",
+    "openai/openai-agents-python",
+    "modelcontextprotocol/servers",
+    "punkpeye/awesome-mcp-servers"
+  ],
+  "seed_repos_failed": [
+    {
+      "full_name": "SuperAGI/SuperAGI",
+      "reason": "not_found_or_request_failed"
+    }
+  ],
+  "github_warnings": [
+    "GitHub API error 404 at /repos/SuperAGI/SuperAGI: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/repos#get-a-repository\",\"status\":\"404\"}",
+    "GitHub API error 403 at /search/repositories: {\n  \"documentation_url\": \"https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits\",\n  \"message\": \"You have exceeded a se",
+    "GitHub API error 403 at /search/repositories: {\n  \"documentation_url\": \"https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits\",\n  \"message\": \"You have exceeded a se",
+    "GitHub API error 403 at /search/repositories: {\n  \"documentation_url\": \"https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits\",\n  \"message\": \"You have exceeded a se",
+    "GitHub API error 403 at /search/repositories: {\n  \"documentation_url\": \"https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits\",\n  \"message\": \"You have exceeded a se",
+    "GitHub API error 403 at /search/repositories: {\n  \"documentation_url\": \"https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits\",\n  \"message\": \"You have exceeded a se",
+    "GitHub API error 403 at /search/repositories: {\n  \"documentation_url\": \"https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits\",\n  \"message\": \"You have exceeded a se",
+    "GitHub API error 403 at /search/repositories: {\n  \"documentation_url\": \"https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits\",\n  \"message\": \"You have exceeded a se",
+    "GitHub API error 403 at /search/repositories: {\n  \"documentation_url\": \"https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits\",\n  \"message\": \"You have exceeded a se"
+  ],
+  "rate_limit": {
+    "remaining": "28",
+    "limit": "30",
+    "reset": "1783121090"
+  },
+  "repos_after_dedup": 1006,
+  "relevance_threshold": 18.0,
+  "relevance_filter_relaxed": false,
+  "repos_after_relevance_filter": 500,
+  "final_api_live_count": 500,
+  "relevance_score_summary": {
+    "min": 57.0,
+    "median": 77.0,
+    "max": 100.0
+  },
+  "repo_count": 500,
+  "fallback_used": false,
+  "fallback_reason": "",
+  "source_type_counts": {
+    "api_live": 500
+  },
+  "finished_at": "2026-07-03T23:26:58.133222+00:00"
+}

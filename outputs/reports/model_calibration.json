@@ -1,0 +1,178 @@
+{
+  "task_a": {
+    "dummy": {
+      "mean_predicted_value": [
+        0.0
+      ],
+      "fraction_of_positives": [
+        0.4473684210526316
+      ],
+      "brier_score_loss": 0.4473684210526316
+    },
+    "logistic_regression": {
+      "mean_predicted_value": [
+        0.008565411937788644,
+        0.3070019788411846,
+        0.43843223712337304,
+        0.7209815862816502,
+        0.9620285253107216
+      ],
+      "fraction_of_positives": [
+        0.0,
+        0.0,
+        0.5,
+        0.8,
+        1.0
+      ],
+      "brier_score_loss": 0.03978250298639957
+    },
+    "random_forest": {
+      "mean_predicted_value": [
+        0.0058823529411764705,
+        0.26666666666666666,
+        0.5208333333333333,
+        0.694047619047619,
+        0.9053030303030304
+      ],
+      "fraction_of_positives": [
+        0.0,
+        0.0,
+        0.5,
+        0.7142857142857143,
+        1.0
+      ],
+      "brier_score_loss": 0.05596308479532164
+    },
+    "extra_trees": {
+      "mean_predicted_value": [
+        0.0,
+        0.35,
+        0.525,
+        0.7222222222222222,
+        0.9366666666666668
+      ],
+      "fraction_of_positives": [
+        0.0,
+        0.0,
+        0.5,
+        0.8333333333333334,
+        1.0
+      ],
+      "brier_score_loss": 0.05682017543859649
+    },
+    "gradient_boosting": {
+      "mean_predicted_value": [
+        0.009653802789086032,
+        0.4398488054066434,
+        0.6863256512217318,
+        0.98001270841488
+      ],
+      "fraction_of_positives": [
+        0.0,
+        0.5,
+        0.0,
+        0.9411764705882353
+      ],
+      "brier_score_loss": 0.05059764592028976
+    },
+    "calibrated_random_forest": {
+      "mean_predicted_value": [
+        0.04764261210894861,
+        0.22834216442909694,
+        0.5018489061428211,
+        0.7519543289803703,
+        0.8812297739222182
+      ],
+      "fraction_of_positives": [
+        0.0,
+        0.0,
+        0.5,
+        0.8571428571428571,
+        1.0
+      ],
+      "brier_score_loss": 0.05270825825266649
+    }
+  },
+  "task_b": {
+    "dummy": {
+      "mean_predicted_value": [
+        1.0
+      ],
+      "fraction_of_positives": [
+        0.631578947368421
+      ],
+      "brier_score_loss": 0.3684210526315789
+    },
+    "logistic_regression": {
+      "mean_predicted_value": [
+        0.037672526992011124,
+        0.24879905090942625,
+        0.6681945169726983,
+        0.9719500475761627
+      ],
+      "fraction_of_positives": [
+        0.0,
+        0.3333333333333333,
+        0.0,
+        1.0
+      ],
+      "brier_score_loss": 0.04758217377114943
+    },
+    "random_forest": {
+      "mean_predicted_value": [
+        0.11416666666666667,
+        0.30625,
+        0.49166666666666664,
+        0.9734848484848485
+      ],
+      "fraction_of_positives": [
+        0.0,
+        0.25,
+        0.5,
+        1.0
+      ],
+      "brier_score_loss": 0.03949561403508772
+    },
+    "extra_trees": {
+      "mean_predicted_value": [
+        0.11805555555555554,
+        0.31666666666666665,
+        0.4583333333333333,
+        0.9875
+      ],
+      "fraction_of_positives": [
+        0.0,
+        0.3333333333333333,
+        1.0,
+        1.0
+      ],
+      "brier_score_loss": 0.030796783625730993
+    },
+    "gradient_boosting": {
+      "mean_predicted_value": [
+        0.0002528936987944781,
+        0.9949865643354253
+      ],
+      "fraction_of_positives": [
+        0.0,
+        0.96
+      ],
+      "brier_score_loss": 0.020321380021898126
+    },
+    "calibrated_random_forest": {
+      "mean_predicted_value": [
+        0.1433055987837609,
+        0.3011067222294858,
+        0.5423267535013182,
+        0.9414933675627246
+      ],
+      "fraction_of_positives": [
+        0.0,
+        0.3333333333333333,
+        0.0,
+        1.0
+      ],
+      "brier_score_loss": 0.048726132438777915
+    }
+  }
+}

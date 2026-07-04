@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1200" viewBox="0 0 1800 1200">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F8FCFF"/>
+      <stop offset="0.48" stop-color="#EAF9FF"/>
+      <stop offset="1" stop-color="#F4FBFF"/>
+    </linearGradient>
+    <radialGradient id="pulse" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0.28"/>
+      <stop offset="0.55" stop-color="#7DD3FC" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="46" height="46" patternUnits="userSpaceOnUse">
+      <path d="M46 0H0V46" fill="none" stroke="#BAE6FD" stroke-width="1" opacity="0.55"/>
+    </pattern>
+  </defs>
+  <rect width="1800" height="1200" fill="url(#bg)"/>
+  <rect width="1800" height="1200" fill="url(#grid)" opacity="0.52"/>
+  <g transform="translate(1240 330)" opacity="0.9">
+    <circle r="360" fill="url(#pulse)"/>
+    <circle r="310" fill="none" stroke="#38BDF8" stroke-width="2" opacity="0.34"/>
+    <circle r="230" fill="none" stroke="#60A5FA" stroke-width="2" opacity="0.30"/>
+    <circle r="150" fill="none" stroke="#22D3EE" stroke-width="2" opacity="0.26"/>
+    <path d="M0 0 L335 -78" stroke="#0EA5E9" stroke-width="4" opacity="0.35"/>
+    <path d="M0 0 L160 245" stroke="#38BDF8" stroke-width="3" opacity="0.26"/>
+    <path d="M0 0 L-252 174" stroke="#60A5FA" stroke-width="3" opacity="0.22"/>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.58">
+    <path d="M122 912 C316 772 492 834 672 676 S1080 520 1290 622 1588 594 1716 458" stroke="#38BDF8" stroke-width="5"/>
+    <path d="M98 1000 C280 882 468 928 640 800 S970 652 1160 744 1430 744 1662 600" stroke="#93C5FD" stroke-width="3" opacity="0.7"/>
+    <path d="M250 184 L396 240 L536 172 L706 284 L862 210 L1036 312" stroke="#60A5FA" stroke-width="3" opacity="0.44"/>
+    <path d="M396 240 L456 394 L630 430 L706 284 M862 210 L930 390 L1110 426 L1036 312" stroke="#22D3EE" stroke-width="2" opacity="0.35"/>
+  </g>
+  <g fill="#FFFFFF" stroke="#38BDF8" stroke-width="3" opacity="0.78">
+    <circle cx="122" cy="912" r="11"/>
+    <circle cx="316" cy="772" r="15"/>
+    <circle cx="492" cy="834" r="10"/>
+    <circle cx="672" cy="676" r="17"/>
+    <circle cx="1080" cy="520" r="14"/>
+    <circle cx="1290" cy="622" r="18"/>
+    <circle cx="1588" cy="594" r="12"/>
+    <circle cx="1716" cy="458" r="16"/>
+    <circle cx="250" cy="184" r="10"/>
+    <circle cx="396" cy="240" r="13"/>
+    <circle cx="536" cy="172" r="9"/>
+    <circle cx="706" cy="284" r="14"/>
+    <circle cx="862" cy="210" r="11"/>
+    <circle cx="1036" cy="312" r="13"/>
+  </g>
+  <g opacity="0.36" font-family="Consolas, monospace" font-size="20" fill="#0369A1">
+    <text x="78" y="84">github.search(query, sort=["stars","updated","forks","best_match"])</text>
+    <text x="76" y="118">dedup(full_name) → relevance_filter → score → cluster → recommend</text>
+    <text x="1180" y="1088">Agent path: collect → audit → topic → score → advise → report → critic</text>
+  </g>
+</svg>

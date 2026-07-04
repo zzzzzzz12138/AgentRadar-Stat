@@ -1,0 +1,3399 @@
+﻿repo_id,owner,repo_name,full_name,repo_url,description,language,topics,stars_total,forks_total,watchers_total,open_issues_count,created_at,updated_at,pushed_at,license,default_branch,has_issues,has_wiki,has_pages,archived,size,stars_this_week,readme_text,collected_at,source_type,api_status
+900000,agent-lab-00,coding-agent-radar-000,agent-lab-00/coding-agent-radar-000,https://github.com/agent-lab-00/coding-agent-radar-000,Coding Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,coding-agent|codex|automation,684,38,513,25,2026-01-23T03:08:27+00:00,2026-06-14T03:08:27+00:00,2026-06-11T03:08:27+00:00,NOASSERTION,main,True,True,False,False,75705,215,"# Coding Agent Lab 000
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900001,agent-lab-01,rag-agent-radar-001,agent-lab-01/rag-agent-radar-001,https://github.com/agent-lab-01/rag-agent-radar-001,RAG Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,rag|llm|retrieval,5408,1017,3181,343,2023-09-18T03:08:27+00:00,2024-05-12T03:08:27+00:00,2024-05-10T03:08:27+00:00,MIT,main,True,True,False,False,74624,50,"# RAG Agent Lab 001
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900002,agent-lab-02,research-agent-radar-002,agent-lab-02/research-agent-radar-002,https://github.com/agent-lab-02/research-agent-radar-002,Research Agent toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,research-agent|paper|workflow,740,158,248,99,2024-09-30T03:08:27+00:00,2026-05-18T03:08:27+00:00,2026-05-15T03:08:27+00:00,Apache-2.0,main,True,False,False,False,4707,20,"# Research Agent Lab 002
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900003,agent-lab-03,workflow-agent-radar-003,agent-lab-03/workflow-agent-radar-003,https://github.com/agent-lab-03/workflow-agent-radar-003,Workflow Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,workflow-agent|orchestration|agentic-ai,899,192,475,85,2023-02-20T03:08:27+00:00,2025-12-03T03:08:27+00:00,2025-12-02T03:08:27+00:00,NOASSERTION,main,True,False,False,False,12388,20,"# Workflow Agent Lab 003
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900004,agent-lab-04,mcp-tool-radar-004,agent-lab-04/mcp-tool-radar-004,https://github.com/agent-lab-04/mcp-tool-radar-004,MCP Tool toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,mcp|tooling|developer-tools,257,30,107,17,2026-04-14T03:08:27+00:00,2026-06-13T03:08:27+00:00,2026-06-10T03:08:27+00:00,NOASSERTION,main,True,True,False,False,72584,58,"# MCP Tool Lab 004
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900005,agent-lab-05,multimodal-agent-radar-005,agent-lab-05/multimodal-agent-radar-005,https://github.com/agent-lab-05/multimodal-agent-radar-005,Multimodal Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,multimodal|vision-language|agent,1366,103,908,5,2026-03-26T03:08:27+00:00,2026-06-08T03:08:27+00:00,2026-06-05T03:08:27+00:00,NOASSERTION,main,True,False,True,False,25519,369,"# Multimodal Agent Lab 005
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: multimodal, vision-language, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900006,agent-lab-06,automl-agent-radar-006,agent-lab-06/automl-agent-radar-006,https://github.com/agent-lab-06/automl-agent-radar-006,AutoML Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,automl|mlops|agent,2946,178,1754,86,2021-09-28T03:08:27+00:00,2025-08-16T03:08:27+00:00,2025-08-13T03:08:27+00:00,Apache-2.0,main,True,False,True,False,57416,18,"# AutoML Agent Lab 006
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: automl, mlops, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900007,agent-lab-07,data-agent-radar-007,agent-lab-07/data-agent-radar-007,https://github.com/agent-lab-07/data-agent-radar-007,Data Agent toolkit for AI Agent ecosystem analysis and course demos.,Jupyter Notebook,data-agent|analytics|pandas,1159,52,563,17,2023-01-10T03:08:27+00:00,2026-05-22T03:08:27+00:00,2026-05-21T03:08:27+00:00,NOASSERTION,main,True,True,False,False,21667,29,"# Data Agent Lab 007
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900008,agent-lab-08,coding-agent-radar-008,agent-lab-08/coding-agent-radar-008,https://github.com/agent-lab-08/coding-agent-radar-008,Coding Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,coding-agent|codex|automation,942,149,626,96,2021-06-30T03:08:27+00:00,2026-01-19T03:08:27+00:00,2026-01-16T03:08:27+00:00,Apache-2.0,main,True,False,False,False,73410,8,"# Coding Agent Lab 008
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900009,agent-lab-09,rag-agent-radar-009,agent-lab-09/rag-agent-radar-009,https://github.com/agent-lab-09/rag-agent-radar-009,RAG Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,rag|llm|retrieval,260,44,143,15,2026-05-18T03:08:27+00:00,2026-06-15T03:08:27+00:00,2026-06-15T03:08:27+00:00,NOASSERTION,main,True,False,False,False,62911,25,"# RAG Agent Lab 009
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900010,agent-lab-10,research-agent-radar-010,agent-lab-10/research-agent-radar-010,https://github.com/agent-lab-10/research-agent-radar-010,Research Agent toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,research-agent|paper|workflow,1148,120,1002,12,2026-03-16T03:08:27+00:00,2026-06-07T03:08:27+00:00,2026-06-06T03:08:27+00:00,MIT,main,True,False,True,False,44959,201,"# Research Agent Lab 010
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900011,agent-lab-11,workflow-agent-radar-011,agent-lab-11/workflow-agent-radar-011,https://github.com/agent-lab-11/workflow-agent-radar-011,Workflow Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,workflow-agent|orchestration|agentic-ai,3071,519,821,177,2022-03-23T03:08:27+00:00,2025-03-29T03:08:27+00:00,2025-03-26T03:08:27+00:00,Apache-2.0,main,True,False,True,True,41455,29,"# Workflow Agent Lab 011
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900012,agent-lab-12,mcp-tool-radar-012,agent-lab-12/mcp-tool-radar-012,https://github.com/agent-lab-12/mcp-tool-radar-012,MCP Tool toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,mcp|tooling|developer-tools,1009,72,709,43,2022-03-14T03:08:27+00:00,2026-06-06T03:08:27+00:00,2026-06-03T03:08:27+00:00,BSD-3-Clause,main,True,False,False,False,56755,39,"# MCP Tool Lab 012
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: mcp, tooling, developer-tools",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900013,agent-lab-13,multimodal-agent-radar-013,agent-lab-13/multimodal-agent-radar-013,https://github.com/agent-lab-13/multimodal-agent-radar-013,Multimodal Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,multimodal|vision-language|agent,562,64,242,39,2025-07-25T03:08:27+00:00,2025-05-11T03:08:27+00:00,2025-05-09T03:08:27+00:00,BSD-3-Clause,main,True,False,True,False,10023,1,"# Multimodal Agent Lab 013
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: multimodal, vision-language, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900014,agent-lab-14,automl-agent-radar-014,agent-lab-14/automl-agent-radar-014,https://github.com/agent-lab-14/automl-agent-radar-014,AutoML Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,automl|mlops|agent,563,81,121,22,2026-04-02T03:08:27+00:00,2026-06-14T03:08:27+00:00,2026-06-12T03:08:27+00:00,MIT,main,True,True,False,False,43821,159,"# AutoML Agent Lab 014
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900015,agent-lab-15,data-agent-radar-015,agent-lab-15/data-agent-radar-015,https://github.com/agent-lab-15/data-agent-radar-015,Data Agent toolkit for AI Agent ecosystem analysis and course demos.,Jupyter Notebook,data-agent|analytics|pandas,1921,401,743,169,2026-01-21T03:08:27+00:00,2026-06-07T03:08:27+00:00,2026-06-05T03:08:27+00:00,Apache-2.0,main,True,True,False,False,49414,425,"# Data Agent Lab 015
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900016,agent-lab-16,coding-agent-radar-016,agent-lab-16/coding-agent-radar-016,https://github.com/agent-lab-16/coding-agent-radar-016,Coding Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,coding-agent|codex|automation,2764,556,762,78,2023-04-17T03:08:27+00:00,2025-01-26T03:08:27+00:00,2025-01-25T03:08:27+00:00,BSD-3-Clause,main,True,True,True,True,25886,3,"# Coding Agent Lab 016
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900017,agent-lab-00,rag-agent-radar-017,agent-lab-00/rag-agent-radar-017,https://github.com/agent-lab-00/rag-agent-radar-017,RAG Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,rag|llm|retrieval,1966,116,444,74,2024-12-11T03:08:27+00:00,2026-05-17T03:08:27+00:00,2026-05-16T03:08:27+00:00,MIT,main,True,True,True,False,33886,95,"# RAG Agent Lab 017
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900018,agent-lab-01,research-agent-radar-018,agent-lab-01/research-agent-radar-018,https://github.com/agent-lab-01/research-agent-radar-018,Research Agent toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,research-agent|paper|workflow,1196,252,453,95,2024-07-20T03:08:27+00:00,2025-01-13T03:08:27+00:00,2025-01-11T03:08:27+00:00,NOASSERTION,main,True,True,False,False,15483,11,"# Research Agent Lab 018
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900019,agent-lab-02,workflow-agent-radar-019,agent-lab-02/workflow-agent-radar-019,https://github.com/agent-lab-02/workflow-agent-radar-019,Workflow Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,workflow-agent|orchestration|agentic-ai,237,47,195,25,2026-06-01T03:08:27+00:00,2026-06-11T03:08:27+00:00,2026-06-07T03:08:27+00:00,MIT,main,True,True,False,False,28980,70,"# Workflow Agent Lab 019
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900020,agent-lab-03,mcp-tool-radar-020,agent-lab-03/mcp-tool-radar-020,https://github.com/agent-lab-03/mcp-tool-radar-020,MCP Tool toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,mcp|tooling|developer-tools,966,168,356,37,2026-01-23T03:08:27+00:00,2026-06-05T03:08:27+00:00,2026-06-05T03:08:27+00:00,NOASSERTION,main,True,False,False,False,6833,186,"# MCP Tool Lab 020
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: mcp, tooling, developer-tools",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900021,agent-lab-04,multimodal-agent-radar-021,agent-lab-04/multimodal-agent-radar-021,https://github.com/agent-lab-04/multimodal-agent-radar-021,Multimodal Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,multimodal|vision-language|agent,3358,662,2498,117,2021-06-10T03:08:27+00:00,2025-01-24T03:08:27+00:00,2025-01-23T03:08:27+00:00,Apache-2.0,main,True,False,True,False,45466,8,"# Multimodal Agent Lab 021
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900022,agent-lab-05,automl-agent-radar-022,agent-lab-05/automl-agent-radar-022,https://github.com/agent-lab-05/automl-agent-radar-022,AutoML Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,automl|mlops|agent,961,61,532,29,2023-10-24T03:08:27+00:00,2026-06-09T03:08:27+00:00,2026-06-09T03:08:27+00:00,NOASSERTION,main,True,True,True,False,52635,20,"# AutoML Agent Lab 022
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900023,agent-lab-06,data-agent-radar-023,agent-lab-06/data-agent-radar-023,https://github.com/agent-lab-06/data-agent-radar-023,Data Agent toolkit for AI Agent ecosystem analysis and course demos.,Jupyter Notebook,data-agent|analytics|pandas,526,91,446,47,2023-11-29T03:08:27+00:00,2025-11-12T03:08:27+00:00,2025-11-12T03:08:27+00:00,MIT,main,True,False,True,False,27644,11,"# Data Agent Lab 023
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900024,agent-lab-07,coding-agent-radar-024,agent-lab-07/coding-agent-radar-024,https://github.com/agent-lab-07/coding-agent-radar-024,Coding Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,coding-agent|codex|automation,375,34,220,22,2026-04-13T03:08:27+00:00,2026-06-09T03:08:27+00:00,2026-06-09T03:08:27+00:00,MIT,main,True,True,True,False,10246,108,"# Coding Agent Lab 024
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900025,agent-lab-08,rag-agent-radar-025,agent-lab-08/rag-agent-radar-025,https://github.com/agent-lab-08/rag-agent-radar-025,RAG Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,rag|llm|retrieval,1374,285,1029,163,2026-05-04T03:08:27+00:00,2026-06-14T03:08:27+00:00,2026-06-12T03:08:27+00:00,Apache-2.0,main,True,True,False,False,59989,469,"# RAG Agent Lab 025
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900026,agent-lab-09,research-agent-radar-026,agent-lab-09/research-agent-radar-026,https://github.com/agent-lab-09/research-agent-radar-026,Research Agent toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,research-agent|paper|workflow,2622,355,1631,157,2025-10-01T03:08:27+00:00,2024-11-25T03:08:27+00:00,2024-11-21T03:08:27+00:00,NOASSERTION,main,True,False,False,True,34177,21,"# Research Agent Lab 026
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900027,agent-lab-10,workflow-agent-radar-027,agent-lab-10/workflow-agent-radar-027,https://github.com/agent-lab-10/workflow-agent-radar-027,Workflow Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,workflow-agent|orchestration|agentic-ai,775,94,559,19,2020-11-14T03:08:27+00:00,2026-05-27T03:08:27+00:00,2026-05-26T03:08:27+00:00,NOASSERTION,main,True,True,True,False,10190,41,"# Workflow Agent Lab 027
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900028,agent-lab-11,mcp-tool-radar-028,agent-lab-11/mcp-tool-radar-028,https://github.com/agent-lab-11/mcp-tool-radar-028,MCP Tool toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,mcp|tooling|developer-tools,514,96,434,59,2021-02-20T03:08:27+00:00,2026-01-15T03:08:27+00:00,2026-01-15T03:08:27+00:00,BSD-3-Clause,main,True,False,False,False,26197,2,"# MCP Tool Lab 028
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900029,agent-lab-12,multimodal-agent-radar-029,agent-lab-12/multimodal-agent-radar-029,https://github.com/agent-lab-12/multimodal-agent-radar-029,Multimodal Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,multimodal|vision-language|agent,340,16,208,2,2026-05-20T03:08:27+00:00,2026-06-14T03:08:27+00:00,2026-06-14T03:08:27+00:00,BSD-3-Clause,main,True,True,True,False,35911,28,"# Multimodal Agent Lab 029
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900030,agent-lab-13,automl-agent-radar-030,agent-lab-13/automl-agent-radar-030,https://github.com/agent-lab-13/automl-agent-radar-030,AutoML Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,automl|mlops|agent,1247,59,467,9,2026-04-06T03:08:27+00:00,2026-06-06T03:08:27+00:00,2026-06-02T03:08:27+00:00,MIT,main,True,True,True,False,85436,397,"# AutoML Agent Lab 030
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900031,agent-lab-14,data-agent-radar-031,agent-lab-14/data-agent-radar-031,https://github.com/agent-lab-14/data-agent-radar-031,Data Agent toolkit for AI Agent ecosystem analysis and course demos.,Jupyter Notebook,data-agent|analytics|pandas,2582,150,2187,88,2023-12-01T03:08:27+00:00,2024-02-12T03:08:27+00:00,2024-02-12T03:08:27+00:00,MIT,main,True,True,False,False,76046,11,"# Data Agent Lab 031
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900032,agent-lab-15,coding-agent-radar-032,agent-lab-15/coding-agent-radar-032,https://github.com/agent-lab-15/coding-agent-radar-032,Coding Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,coding-agent|codex|automation,466,84,137,39,2021-08-15T03:08:27+00:00,2026-05-06T03:08:27+00:00,2026-05-03T03:08:27+00:00,NOASSERTION,main,True,True,False,False,46668,23,"# Coding Agent Lab 032
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900033,agent-lab-16,rag-agent-radar-033,agent-lab-16/rag-agent-radar-033,https://github.com/agent-lab-16/rag-agent-radar-033,RAG Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,rag|llm|retrieval,110,17,58,38,2020-08-17T03:08:27+00:00,2024-12-31T03:08:27+00:00,2024-12-31T03:08:27+00:00,MIT,main,True,False,True,False,21545,1,"# RAG Agent Lab 033
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: rag, llm, retrieval",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900034,agent-lab-00,research-agent-radar-034,agent-lab-00/research-agent-radar-034,https://github.com/agent-lab-00/research-agent-radar-034,Research Agent toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,research-agent|paper|workflow,373,40,322,19,2026-04-26T03:08:27+00:00,2026-06-12T03:08:27+00:00,2026-06-11T03:08:27+00:00,BSD-3-Clause,main,True,True,True,False,43697,56,"# Research Agent Lab 034
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900035,agent-lab-01,workflow-agent-radar-035,agent-lab-01/workflow-agent-radar-035,https://github.com/agent-lab-01/workflow-agent-radar-035,Workflow Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,workflow-agent|orchestration|agentic-ai,1543,285,619,112,2026-04-04T03:08:27+00:00,2026-06-10T03:08:27+00:00,2026-06-07T03:08:27+00:00,BSD-3-Clause,main,True,False,True,False,3935,481,"# Workflow Agent Lab 035
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900036,agent-lab-02,mcp-tool-radar-036,agent-lab-02/mcp-tool-radar-036,https://github.com/agent-lab-02/mcp-tool-radar-036,MCP Tool toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,mcp|tooling|developer-tools,5177,779,1341,87,2025-03-11T03:08:27+00:00,2024-02-17T03:08:27+00:00,2024-02-14T03:08:27+00:00,BSD-3-Clause,main,True,True,True,False,13056,45,"# MCP Tool Lab 036
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: mcp, tooling, developer-tools",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900037,agent-lab-03,multimodal-agent-radar-037,agent-lab-03/multimodal-agent-radar-037,https://github.com/agent-lab-03/multimodal-agent-radar-037,Multimodal Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,multimodal|vision-language|agent,626,113,236,64,2020-09-02T03:08:27+00:00,2026-05-03T03:08:27+00:00,2026-04-29T03:08:27+00:00,BSD-3-Clause,main,True,True,False,False,9278,24,"# Multimodal Agent Lab 037
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900038,agent-lab-04,automl-agent-radar-038,agent-lab-04/automl-agent-radar-038,https://github.com/agent-lab-04/automl-agent-radar-038,AutoML Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,automl|mlops|agent,421,60,309,56,2023-04-18T03:08:27+00:00,2025-04-26T03:08:27+00:00,2025-04-24T03:08:27+00:00,NOASSERTION,main,True,True,True,False,44700,7,"# AutoML Agent Lab 038
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900039,agent-lab-05,data-agent-radar-039,agent-lab-05/data-agent-radar-039,https://github.com/agent-lab-05/data-agent-radar-039,Data Agent toolkit for AI Agent ecosystem analysis and course demos.,Jupyter Notebook,data-agent|analytics|pandas,131,8,64,0,2026-04-01T03:08:27+00:00,2026-06-06T03:08:27+00:00,2026-06-03T03:08:27+00:00,NOASSERTION,main,True,True,False,False,60673,13,"# Data Agent Lab 039
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900040,agent-lab-06,coding-agent-radar-040,agent-lab-06/coding-agent-radar-040,https://github.com/agent-lab-06/coding-agent-radar-040,Coding Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,coding-agent|codex|automation,1377,145,417,36,2026-04-03T03:08:27+00:00,2026-06-08T03:08:27+00:00,2026-06-07T03:08:27+00:00,MIT,main,True,False,True,False,50307,400,"# Coding Agent Lab 040
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900041,agent-lab-07,rag-agent-radar-041,agent-lab-07/rag-agent-radar-041,https://github.com/agent-lab-07/rag-agent-radar-041,RAG Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,rag|llm|retrieval,3441,717,1594,399,2023-10-15T03:08:27+00:00,2025-05-22T03:08:27+00:00,2025-05-19T03:08:27+00:00,Apache-2.0,main,True,True,True,True,64824,26,"# RAG Agent Lab 041
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900042,agent-lab-08,research-agent-radar-042,agent-lab-08/research-agent-radar-042,https://github.com/agent-lab-08/research-agent-radar-042,Research Agent toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,research-agent|paper|workflow,1071,165,728,21,2021-05-07T03:08:27+00:00,2026-05-04T03:08:27+00:00,2026-05-02T03:08:27+00:00,BSD-3-Clause,main,True,False,False,False,41325,56,"# Research Agent Lab 042
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900043,agent-lab-09,workflow-agent-radar-043,agent-lab-09/workflow-agent-radar-043,https://github.com/agent-lab-09/workflow-agent-radar-043,Workflow Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,workflow-agent|orchestration|agentic-ai,276,33,206,43,2022-02-01T03:08:27+00:00,2025-01-15T03:08:27+00:00,2025-01-11T03:08:27+00:00,BSD-3-Clause,main,True,False,False,False,89735,3,"# Workflow Agent Lab 043
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900044,agent-lab-10,mcp-tool-radar-044,agent-lab-10/mcp-tool-radar-044,https://github.com/agent-lab-10/mcp-tool-radar-044,MCP Tool toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,mcp|tooling|developer-tools,491,29,321,20,2026-03-01T03:08:27+00:00,2026-06-13T03:08:27+00:00,2026-06-10T03:08:27+00:00,BSD-3-Clause,main,True,False,True,False,80815,129,"# MCP Tool Lab 044
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: mcp, tooling, developer-tools",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900045,agent-lab-11,multimodal-agent-radar-045,agent-lab-11/multimodal-agent-radar-045,https://github.com/agent-lab-11/multimodal-agent-radar-045,Multimodal Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,multimodal|vision-language|agent,822,62,185,39,2026-05-22T03:08:27+00:00,2026-06-05T03:08:27+00:00,2026-06-04T03:08:27+00:00,BSD-3-Clause,main,True,False,False,False,14744,111,"# Multimodal Agent Lab 045
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900046,agent-lab-12,automl-agent-radar-046,agent-lab-12/automl-agent-radar-046,https://github.com/agent-lab-12/automl-agent-radar-046,AutoML Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,automl|mlops|agent,1484,286,1260,24,2026-02-03T03:08:27+00:00,2024-01-20T03:08:27+00:00,2024-01-17T03:08:27+00:00,NOASSERTION,main,True,False,True,False,63072,12,"# AutoML Agent Lab 046
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900047,agent-lab-13,data-agent-radar-047,agent-lab-13/data-agent-radar-047,https://github.com/agent-lab-13/data-agent-radar-047,Data Agent toolkit for AI Agent ecosystem analysis and course demos.,Jupyter Notebook,data-agent|analytics|pandas,784,102,623,54,2021-07-04T03:08:27+00:00,2026-05-09T03:08:27+00:00,2026-05-06T03:08:27+00:00,Apache-2.0,main,True,False,True,False,66328,12,"# Data Agent Lab 047
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900048,agent-lab-14,coding-agent-radar-048,agent-lab-14/coding-agent-radar-048,https://github.com/agent-lab-14/coding-agent-radar-048,Coding Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,coding-agent|codex|automation,517,111,326,84,2026-01-31T03:08:27+00:00,2025-11-15T03:08:27+00:00,2025-11-15T03:08:27+00:00,MIT,main,True,False,False,False,79665,11,"# Coding Agent Lab 048
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900049,agent-lab-15,rag-agent-radar-049,agent-lab-15/rag-agent-radar-049,https://github.com/agent-lab-15/rag-agent-radar-049,RAG Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,rag|llm|retrieval,311,22,232,15,2026-03-19T03:08:27+00:00,2026-06-14T03:08:27+00:00,2026-06-12T03:08:27+00:00,Apache-2.0,main,True,True,True,False,51859,31,"# RAG Agent Lab 049
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900050,agent-lab-16,research-agent-radar-050,agent-lab-16/research-agent-radar-050,https://github.com/agent-lab-16/research-agent-radar-050,Research Agent toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,research-agent|paper|workflow,2505,415,761,195,2026-05-03T03:08:27+00:00,2026-06-10T03:08:27+00:00,2026-06-08T03:08:27+00:00,NOASSERTION,main,True,False,True,False,62426,439,"# Research Agent Lab 050
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900051,agent-lab-00,workflow-agent-radar-051,agent-lab-00/workflow-agent-radar-051,https://github.com/agent-lab-00/workflow-agent-radar-051,Workflow Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,workflow-agent|orchestration|agentic-ai,8760,788,5498,195,2023-12-28T03:08:27+00:00,2024-01-14T03:08:27+00:00,2024-01-11T03:08:27+00:00,Apache-2.0,main,True,False,True,False,37533,18,"# Workflow Agent Lab 051
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: workflow-agent, orchestration, agentic-ai",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900052,agent-lab-01,mcp-tool-radar-052,agent-lab-01/mcp-tool-radar-052,https://github.com/agent-lab-01/mcp-tool-radar-052,MCP Tool toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,mcp|tooling|developer-tools,366,35,194,2,2025-06-26T03:08:27+00:00,2026-05-28T03:08:27+00:00,2026-05-26T03:08:27+00:00,MIT,main,True,False,False,False,51863,14,"# MCP Tool Lab 052
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900053,agent-lab-02,multimodal-agent-radar-053,agent-lab-02/multimodal-agent-radar-053,https://github.com/agent-lab-02/multimodal-agent-radar-053,Multimodal Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,multimodal|vision-language|agent,500,78,292,54,2024-04-22T03:08:27+00:00,2025-05-20T03:08:27+00:00,2025-05-17T03:08:27+00:00,MIT,main,True,False,True,False,56640,9,"# Multimodal Agent Lab 053
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900054,agent-lab-03,automl-agent-radar-054,agent-lab-03/automl-agent-radar-054,https://github.com/agent-lab-03/automl-agent-radar-054,AutoML Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,automl|mlops|agent,674,134,380,86,2026-04-27T03:08:27+00:00,2026-06-10T03:08:27+00:00,2026-06-08T03:08:27+00:00,Apache-2.0,main,True,True,False,False,28849,163,"# AutoML Agent Lab 054
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900055,agent-lab-04,data-agent-radar-055,agent-lab-04/data-agent-radar-055,https://github.com/agent-lab-04/data-agent-radar-055,Data Agent toolkit for AI Agent ecosystem analysis and course demos.,Jupyter Notebook,data-agent|analytics|pandas,1747,158,733,42,2026-01-13T03:08:27+00:00,2026-06-06T03:08:27+00:00,2026-06-04T03:08:27+00:00,MIT,main,True,False,True,False,81328,542,"# Data Agent Lab 055
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: data-agent, analytics, pandas",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900056,agent-lab-05,coding-agent-radar-056,agent-lab-05/coding-agent-radar-056,https://github.com/agent-lab-05/coding-agent-radar-056,Coding Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,coding-agent|codex|automation,1486,100,676,44,2026-04-24T03:08:27+00:00,2024-12-25T03:08:27+00:00,2024-12-22T03:08:27+00:00,MIT,main,True,True,True,True,89595,12,"# Coding Agent Lab 056
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900057,agent-lab-06,rag-agent-radar-057,agent-lab-06/rag-agent-radar-057,https://github.com/agent-lab-06/rag-agent-radar-057,RAG Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,rag|llm|retrieval,614,102,127,30,2023-09-19T03:08:27+00:00,2026-05-12T03:08:27+00:00,2026-05-09T03:08:27+00:00,BSD-3-Clause,main,True,False,True,False,47637,27,"# RAG Agent Lab 057
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900058,agent-lab-07,research-agent-radar-058,agent-lab-07/research-agent-radar-058,https://github.com/agent-lab-07/research-agent-radar-058,Research Agent toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,research-agent|paper|workflow,410,89,366,71,2023-08-13T03:08:27+00:00,2025-11-29T03:08:27+00:00,2025-11-25T03:08:27+00:00,BSD-3-Clause,main,True,False,True,False,40783,10,"# Research Agent Lab 058
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900059,agent-lab-08,workflow-agent-radar-059,agent-lab-08/workflow-agent-radar-059,https://github.com/agent-lab-08/workflow-agent-radar-059,Workflow Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,workflow-agent|orchestration|agentic-ai,256,30,83,10,2026-04-23T03:08:27+00:00,2026-06-15T03:08:27+00:00,2026-06-15T03:08:27+00:00,MIT,main,True,True,True,False,4782,63,"# Workflow Agent Lab 059
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900060,agent-lab-09,mcp-tool-radar-060,agent-lab-09/mcp-tool-radar-060,https://github.com/agent-lab-09/mcp-tool-radar-060,MCP Tool toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,mcp|tooling|developer-tools,1720,221,1359,23,2026-04-19T03:08:27+00:00,2026-06-04T03:08:27+00:00,2026-06-03T03:08:27+00:00,MIT,main,True,True,True,False,50410,382,"# MCP Tool Lab 060
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900061,agent-lab-10,multimodal-agent-radar-061,agent-lab-10/multimodal-agent-radar-061,https://github.com/agent-lab-10/multimodal-agent-radar-061,Multimodal Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,multimodal|vision-language|agent,3248,344,2569,137,2022-07-11T03:08:27+00:00,2024-08-24T03:08:27+00:00,2024-08-20T03:08:27+00:00,Apache-2.0,main,True,False,False,False,69361,25,"# Multimodal Agent Lab 061
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: multimodal, vision-language, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900062,agent-lab-11,automl-agent-radar-062,agent-lab-11/automl-agent-radar-062,https://github.com/agent-lab-11/automl-agent-radar-062,AutoML Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,automl|mlops|agent,777,113,426,68,2022-04-15T03:08:27+00:00,2026-05-08T03:08:27+00:00,2026-05-07T03:08:27+00:00,NOASSERTION,main,True,True,True,False,10164,43,"# AutoML Agent Lab 062
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900063,agent-lab-12,data-agent-radar-063,agent-lab-12/data-agent-radar-063,https://github.com/agent-lab-12/data-agent-radar-063,Data Agent toolkit for AI Agent ecosystem analysis and course demos.,Jupyter Notebook,data-agent|analytics|pandas,840,60,182,51,2026-04-09T03:08:27+00:00,2025-08-08T03:08:27+00:00,2025-08-08T03:08:27+00:00,BSD-3-Clause,main,True,True,True,False,40780,15,"# Data Agent Lab 063
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900064,agent-lab-13,coding-agent-radar-064,agent-lab-13/coding-agent-radar-064,https://github.com/agent-lab-13/coding-agent-radar-064,Coding Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,coding-agent|codex|automation,133,11,118,5,2026-05-03T03:08:27+00:00,2026-06-10T03:08:27+00:00,2026-06-07T03:08:27+00:00,NOASSERTION,main,True,True,True,False,43393,10,"# Coding Agent Lab 064
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900065,agent-lab-14,rag-agent-radar-065,agent-lab-14/rag-agent-radar-065,https://github.com/agent-lab-14/rag-agent-radar-065,RAG Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,rag|llm|retrieval,1480,267,1054,163,2026-01-25T03:08:27+00:00,2026-06-12T03:08:27+00:00,2026-06-12T03:08:27+00:00,MIT,main,True,True,False,False,58750,414,"# RAG Agent Lab 065
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900066,agent-lab-15,research-agent-radar-066,agent-lab-15/research-agent-radar-066,https://github.com/agent-lab-15/research-agent-radar-066,Research Agent toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,research-agent|paper|workflow,4047,371,1790,195,2023-02-06T03:08:27+00:00,2025-07-04T03:08:27+00:00,2025-06-30T03:08:27+00:00,BSD-3-Clause,main,True,False,False,True,4452,39,"# Research Agent Lab 066
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900067,agent-lab-16,workflow-agent-radar-067,agent-lab-16/workflow-agent-radar-067,https://github.com/agent-lab-16/workflow-agent-radar-067,Workflow Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,workflow-agent|orchestration|agentic-ai,626,77,472,52,2023-05-15T03:08:27+00:00,2026-05-12T03:08:27+00:00,2026-05-10T03:08:27+00:00,BSD-3-Clause,main,True,False,False,False,50347,37,"# Workflow Agent Lab 067
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900068,agent-lab-00,mcp-tool-radar-068,agent-lab-00/mcp-tool-radar-068,https://github.com/agent-lab-00/mcp-tool-radar-068,MCP Tool toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,mcp|tooling|developer-tools,971,45,268,48,2023-03-05T03:08:27+00:00,2025-01-27T03:08:27+00:00,2025-01-27T03:08:27+00:00,NOASSERTION,main,True,True,True,False,64422,23,"# MCP Tool Lab 068
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900069,agent-lab-01,multimodal-agent-radar-069,agent-lab-01/multimodal-agent-radar-069,https://github.com/agent-lab-01/multimodal-agent-radar-069,Multimodal Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,multimodal|vision-language|agent,45,8,28,0,2026-03-12T03:08:27+00:00,2026-06-07T03:08:27+00:00,2026-06-06T03:08:27+00:00,MIT,main,True,True,False,False,1201,10,"# Multimodal Agent Lab 069
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900070,agent-lab-02,automl-agent-radar-070,agent-lab-02/automl-agent-radar-070,https://github.com/agent-lab-02/automl-agent-radar-070,AutoML Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,automl|mlops|agent,861,173,686,84,2026-03-05T03:08:27+00:00,2026-06-06T03:08:27+00:00,2026-06-05T03:08:27+00:00,MIT,main,True,True,False,False,70341,92,"# AutoML Agent Lab 070
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900071,agent-lab-03,data-agent-radar-071,agent-lab-03/data-agent-radar-071,https://github.com/agent-lab-03/data-agent-radar-071,Data Agent toolkit for AI Agent ecosystem analysis and course demos.,Jupyter Notebook,data-agent|analytics|pandas,3033,271,786,169,2021-04-22T03:08:27+00:00,2024-12-04T03:08:27+00:00,2024-11-30T03:08:27+00:00,MIT,main,True,True,False,False,64813,19,"# Data Agent Lab 071
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900072,agent-lab-04,coding-agent-radar-072,agent-lab-04/coding-agent-radar-072,https://github.com/agent-lab-04/coding-agent-radar-072,Coding Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,coding-agent|codex|automation,2267,257,2036,35,2023-11-12T03:08:27+00:00,2026-05-10T03:08:27+00:00,2026-05-08T03:08:27+00:00,NOASSERTION,main,True,True,True,False,53892,56,"# Coding Agent Lab 072
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: coding-agent, codex, automation",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900073,agent-lab-05,rag-agent-radar-073,agent-lab-05/rag-agent-radar-073,https://github.com/agent-lab-05/rag-agent-radar-073,RAG Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,rag|llm|retrieval,506,32,172,44,2026-01-15T03:08:27+00:00,2025-08-11T03:08:27+00:00,2025-08-11T03:08:27+00:00,BSD-3-Clause,main,True,False,False,False,41232,7,"# RAG Agent Lab 073
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: rag, llm, retrieval",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900074,agent-lab-06,research-agent-radar-074,agent-lab-06/research-agent-radar-074,https://github.com/agent-lab-06/research-agent-radar-074,Research Agent toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,research-agent|paper|workflow,621,132,247,71,2026-03-28T03:08:27+00:00,2026-06-12T03:08:27+00:00,2026-06-10T03:08:27+00:00,Apache-2.0,main,True,True,False,False,21770,107,"# Research Agent Lab 074
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900075,agent-lab-07,workflow-agent-radar-075,agent-lab-07/workflow-agent-radar-075,https://github.com/agent-lab-07/workflow-agent-radar-075,Workflow Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,workflow-agent|orchestration|agentic-ai,1579,231,582,109,2026-04-04T03:08:27+00:00,2026-06-04T03:08:27+00:00,2026-06-04T03:08:27+00:00,Apache-2.0,main,True,False,False,False,16622,366,"# Workflow Agent Lab 075
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900076,agent-lab-08,mcp-tool-radar-076,agent-lab-08/mcp-tool-radar-076,https://github.com/agent-lab-08/mcp-tool-radar-076,MCP Tool toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,mcp|tooling|developer-tools,10637,1926,9533,645,2025-06-22T03:08:27+00:00,2025-04-06T03:08:27+00:00,2025-04-02T03:08:27+00:00,Apache-2.0,main,True,True,True,True,73465,64,"# MCP Tool Lab 076
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900077,agent-lab-09,multimodal-agent-radar-077,agent-lab-09/multimodal-agent-radar-077,https://github.com/agent-lab-09/multimodal-agent-radar-077,Multimodal Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,multimodal|vision-language|agent,653,92,567,10,2022-05-23T03:08:27+00:00,2026-05-06T03:08:27+00:00,2026-05-03T03:08:27+00:00,NOASSERTION,main,True,True,True,False,39421,12,"# Multimodal Agent Lab 077
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900078,agent-lab-10,automl-agent-radar-078,agent-lab-10/automl-agent-radar-078,https://github.com/agent-lab-10/automl-agent-radar-078,AutoML Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,automl|mlops|agent,137,6,71,36,2025-07-26T03:08:27+00:00,2026-01-29T03:08:27+00:00,2026-01-29T03:08:27+00:00,Apache-2.0,main,True,True,True,False,28681,0,"# AutoML Agent Lab 078
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900079,agent-lab-11,data-agent-radar-079,agent-lab-11/data-agent-radar-079,https://github.com/agent-lab-11/data-agent-radar-079,Data Agent toolkit for AI Agent ecosystem analysis and course demos.,Jupyter Notebook,data-agent|analytics|pandas,602,30,247,15,2026-05-31T03:08:27+00:00,2026-06-14T03:08:27+00:00,2026-06-13T03:08:27+00:00,Apache-2.0,main,True,False,False,False,37961,99,"# Data Agent Lab 079
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900080,agent-lab-12,coding-agent-radar-080,agent-lab-12/coding-agent-radar-080,https://github.com/agent-lab-12/coding-agent-radar-080,Coding Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,coding-agent|codex|automation,1782,234,894,86,2026-05-26T03:08:27+00:00,2026-06-14T03:08:27+00:00,2026-06-14T03:08:27+00:00,Apache-2.0,main,True,True,True,False,42476,562,"# Coding Agent Lab 080
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: coding-agent, codex, automation",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900081,agent-lab-13,rag-agent-radar-081,agent-lab-13/rag-agent-radar-081,https://github.com/agent-lab-13/rag-agent-radar-081,RAG Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,rag|llm|retrieval,3486,440,1504,217,2021-05-19T03:08:27+00:00,2024-09-03T03:08:27+00:00,2024-09-02T03:08:27+00:00,MIT,main,True,False,True,False,5132,13,"# RAG Agent Lab 081
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900082,agent-lab-14,research-agent-radar-082,agent-lab-14/research-agent-radar-082,https://github.com/agent-lab-14/research-agent-radar-082,Research Agent toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,research-agent|paper|workflow,1016,49,209,6,2023-06-13T03:08:27+00:00,2026-05-26T03:08:27+00:00,2026-05-22T03:08:27+00:00,NOASSERTION,main,True,False,True,False,3590,17,"# Research Agent Lab 082
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: research-agent, paper, workflow",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900083,agent-lab-15,workflow-agent-radar-083,agent-lab-15/workflow-agent-radar-083,https://github.com/agent-lab-15/workflow-agent-radar-083,Workflow Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,workflow-agent|orchestration|agentic-ai,137,19,27,43,2025-06-26T03:08:27+00:00,2025-12-24T03:08:27+00:00,2025-12-20T03:08:27+00:00,Apache-2.0,main,True,True,True,False,56025,0,"# Workflow Agent Lab 083
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900084,agent-lab-16,mcp-tool-radar-084,agent-lab-16/mcp-tool-radar-084,https://github.com/agent-lab-16/mcp-tool-radar-084,MCP Tool toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,mcp|tooling|developer-tools,631,54,392,34,2026-05-19T03:08:27+00:00,2026-06-08T03:08:27+00:00,2026-06-06T03:08:27+00:00,NOASSERTION,main,True,True,False,False,33049,169,"# MCP Tool Lab 084
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900085,agent-lab-00,multimodal-agent-radar-085,agent-lab-00/multimodal-agent-radar-085,https://github.com/agent-lab-00/multimodal-agent-radar-085,Multimodal Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,multimodal|vision-language|agent,1939,153,493,48,2026-01-16T03:08:27+00:00,2026-06-14T03:08:27+00:00,2026-06-11T03:08:27+00:00,Apache-2.0,main,True,True,False,False,66441,581,"# Multimodal Agent Lab 085
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900086,agent-lab-01,automl-agent-radar-086,agent-lab-01/automl-agent-radar-086,https://github.com/agent-lab-01/automl-agent-radar-086,AutoML Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,automl|mlops|agent,3780,632,3110,335,2024-05-01T03:08:27+00:00,2024-07-27T03:08:27+00:00,2024-07-23T03:08:27+00:00,Apache-2.0,main,True,False,True,True,12041,9,"# AutoML Agent Lab 086
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900087,agent-lab-02,data-agent-radar-087,agent-lab-02/data-agent-radar-087,https://github.com/agent-lab-02/data-agent-radar-087,Data Agent toolkit for AI Agent ecosystem analysis and course demos.,Jupyter Notebook,data-agent|analytics|pandas,470,61,99,42,2021-10-07T03:08:27+00:00,2026-06-09T03:08:27+00:00,2026-06-09T03:08:27+00:00,BSD-3-Clause,main,True,True,True,False,52949,8,"# Data Agent Lab 087
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900088,agent-lab-03,coding-agent-radar-088,agent-lab-03/coding-agent-radar-088,https://github.com/agent-lab-03/coding-agent-radar-088,Coding Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,coding-agent|codex|automation,791,107,186,83,2024-01-31T03:08:27+00:00,2025-12-17T03:08:27+00:00,2025-12-16T03:08:27+00:00,Apache-2.0,main,True,True,False,False,27092,20,"# Coding Agent Lab 088
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: coding-agent, codex, automation",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900089,agent-lab-04,rag-agent-radar-089,agent-lab-04/rag-agent-radar-089,https://github.com/agent-lab-04/rag-agent-radar-089,RAG Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,rag|llm|retrieval,684,100,258,20,2026-03-25T03:08:27+00:00,2026-06-07T03:08:27+00:00,2026-06-03T03:08:27+00:00,BSD-3-Clause,main,True,True,False,False,50175,57,"# RAG Agent Lab 089
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900090,agent-lab-05,research-agent-radar-090,agent-lab-05/research-agent-radar-090,https://github.com/agent-lab-05/research-agent-radar-090,Research Agent toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,research-agent|paper|workflow,1493,263,836,181,2026-03-24T03:08:27+00:00,2026-06-06T03:08:27+00:00,2026-06-06T03:08:27+00:00,Apache-2.0,main,True,True,False,False,3937,420,"# Research Agent Lab 090
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900091,agent-lab-06,workflow-agent-radar-091,agent-lab-06/workflow-agent-radar-091,https://github.com/agent-lab-06/workflow-agent-radar-091,Workflow Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,workflow-agent|orchestration|agentic-ai,4079,816,1242,250,2021-08-25T03:08:27+00:00,2024-02-04T03:08:27+00:00,2024-02-04T03:08:27+00:00,BSD-3-Clause,main,True,False,True,True,16717,19,"# Workflow Agent Lab 091
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: workflow-agent, orchestration, agentic-ai",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900092,agent-lab-07,mcp-tool-radar-092,agent-lab-07/mcp-tool-radar-092,https://github.com/agent-lab-07/mcp-tool-radar-092,MCP Tool toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,mcp|tooling|developer-tools,454,78,255,48,2022-05-01T03:08:27+00:00,2026-06-07T03:08:27+00:00,2026-06-06T03:08:27+00:00,MIT,main,True,True,True,False,66017,15,"# MCP Tool Lab 092
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900093,agent-lab-08,multimodal-agent-radar-093,agent-lab-08/multimodal-agent-radar-093,https://github.com/agent-lab-08/multimodal-agent-radar-093,Multimodal Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,multimodal|vision-language|agent,1984,402,535,281,2023-03-20T03:08:27+00:00,2025-02-05T03:08:27+00:00,2025-02-02T03:08:27+00:00,MIT,main,True,False,False,False,67129,6,"# Multimodal Agent Lab 093
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900094,agent-lab-09,automl-agent-radar-094,agent-lab-09/automl-agent-radar-094,https://github.com/agent-lab-09/automl-agent-radar-094,AutoML Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,automl|mlops|agent,178,30,75,18,2026-06-03T03:08:27+00:00,2026-06-06T03:08:27+00:00,2026-06-05T03:08:27+00:00,Apache-2.0,main,True,True,True,False,52624,29,"# AutoML Agent Lab 094
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900095,agent-lab-10,data-agent-radar-095,agent-lab-10/data-agent-radar-095,https://github.com/agent-lab-10/data-agent-radar-095,Data Agent toolkit for AI Agent ecosystem analysis and course demos.,Jupyter Notebook,data-agent|analytics|pandas,2065,155,602,45,2026-03-22T03:08:27+00:00,2026-06-09T03:08:27+00:00,2026-06-08T03:08:27+00:00,Apache-2.0,main,True,False,False,False,28255,689,"# Data Agent Lab 095
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900096,agent-lab-11,coding-agent-radar-096,agent-lab-11/coding-agent-radar-096,https://github.com/agent-lab-11/coding-agent-radar-096,Coding Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,coding-agent|codex|automation,1522,87,600,46,2022-04-25T03:08:27+00:00,2024-06-15T03:08:27+00:00,2024-06-13T03:08:27+00:00,NOASSERTION,main,True,False,False,False,17370,14,"# Coding Agent Lab 096
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900097,agent-lab-12,rag-agent-radar-097,agent-lab-12/rag-agent-radar-097,https://github.com/agent-lab-12/rag-agent-radar-097,RAG Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,rag|llm|retrieval,606,29,397,10,2023-07-18T03:08:27+00:00,2026-05-23T03:08:27+00:00,2026-05-19T03:08:27+00:00,BSD-3-Clause,main,True,False,True,False,10673,13,"# RAG Agent Lab 097
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: rag, llm, retrieval",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900098,agent-lab-13,research-agent-radar-098,agent-lab-13/research-agent-radar-098,https://github.com/agent-lab-13/research-agent-radar-098,Research Agent toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,research-agent|paper|workflow,569,112,505,106,2025-01-01T03:08:27+00:00,2025-10-17T03:08:27+00:00,2025-10-13T03:08:27+00:00,Apache-2.0,main,True,True,True,False,7206,13,"# Research Agent Lab 098
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: research-agent, paper, workflow",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900099,agent-lab-14,workflow-agent-radar-099,agent-lab-14/workflow-agent-radar-099,https://github.com/agent-lab-14/workflow-agent-radar-099,Workflow Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,workflow-agent|orchestration|agentic-ai,661,37,383,22,2026-05-21T03:08:27+00:00,2026-06-12T03:08:27+00:00,2026-06-09T03:08:27+00:00,BSD-3-Clause,main,True,False,False,False,23390,133,"# Workflow Agent Lab 099
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900100,agent-lab-15,mcp-tool-radar-100,agent-lab-15/mcp-tool-radar-100,https://github.com/agent-lab-15/mcp-tool-radar-100,MCP Tool toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,mcp|tooling|developer-tools,2158,201,1579,58,2026-05-01T03:08:27+00:00,2026-06-09T03:08:27+00:00,2026-06-05T03:08:27+00:00,Apache-2.0,main,True,False,True,False,4650,530,"# MCP Tool Lab 100
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900101,agent-lab-16,multimodal-agent-radar-101,agent-lab-16/multimodal-agent-radar-101,https://github.com/agent-lab-16/multimodal-agent-radar-101,Multimodal Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,multimodal|vision-language|agent,2751,159,895,35,2025-03-02T03:08:27+00:00,2025-04-17T03:08:27+00:00,2025-04-17T03:08:27+00:00,NOASSERTION,main,True,True,False,True,40927,5,"# Multimodal Agent Lab 101
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900102,agent-lab-00,automl-agent-radar-102,agent-lab-00/automl-agent-radar-102,https://github.com/agent-lab-00/automl-agent-radar-102,AutoML Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,automl|mlops|agent,1331,262,497,70,2025-04-18T03:08:27+00:00,2026-06-04T03:08:27+00:00,2026-06-02T03:08:27+00:00,Apache-2.0,main,True,False,False,False,15183,69,"# AutoML Agent Lab 102
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900103,agent-lab-01,data-agent-radar-103,agent-lab-01/data-agent-radar-103,https://github.com/agent-lab-01/data-agent-radar-103,Data Agent toolkit for AI Agent ecosystem analysis and course demos.,Jupyter Notebook,data-agent|analytics|pandas,723,96,416,70,2026-03-08T03:08:27+00:00,2024-11-21T03:08:27+00:00,2024-11-19T03:08:27+00:00,NOASSERTION,main,True,False,False,False,12552,16,"# Data Agent Lab 103
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900104,agent-lab-02,coding-agent-radar-104,agent-lab-02/coding-agent-radar-104,https://github.com/agent-lab-02/coding-agent-radar-104,Coding Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,coding-agent|codex|automation,160,33,55,5,2026-05-23T03:08:27+00:00,2026-06-06T03:08:27+00:00,2026-06-04T03:08:27+00:00,MIT,main,True,False,True,False,3480,29,"# Coding Agent Lab 104
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900105,agent-lab-03,rag-agent-radar-105,agent-lab-03/rag-agent-radar-105,https://github.com/agent-lab-03/rag-agent-radar-105,RAG Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,rag|llm|retrieval,1361,168,450,52,2026-05-07T03:08:27+00:00,2026-06-05T03:08:27+00:00,2026-06-03T03:08:27+00:00,BSD-3-Clause,main,True,True,True,False,13515,245,"# RAG Agent Lab 105
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900106,agent-lab-04,research-agent-radar-106,agent-lab-04/research-agent-radar-106,https://github.com/agent-lab-04/research-agent-radar-106,Research Agent toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,research-agent|paper|workflow,705,145,309,39,2021-07-08T03:08:27+00:00,2024-04-06T03:08:27+00:00,2024-04-04T03:08:27+00:00,MIT,main,True,False,True,False,56345,3,"# Research Agent Lab 106
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: research-agent, paper, workflow",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900107,agent-lab-05,workflow-agent-radar-107,agent-lab-05/workflow-agent-radar-107,https://github.com/agent-lab-05/workflow-agent-radar-107,Workflow Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,workflow-agent|orchestration|agentic-ai,996,205,200,68,2026-01-29T03:08:27+00:00,2026-05-13T03:08:27+00:00,2026-05-10T03:08:27+00:00,BSD-3-Clause,main,True,True,False,False,25855,20,"# Workflow Agent Lab 107
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900108,agent-lab-06,mcp-tool-radar-108,agent-lab-06/mcp-tool-radar-108,https://github.com/agent-lab-06/mcp-tool-radar-108,MCP Tool toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,mcp|tooling|developer-tools,1270,85,1073,74,2021-02-27T03:08:27+00:00,2026-01-17T03:08:27+00:00,2026-01-16T03:08:27+00:00,BSD-3-Clause,main,True,False,False,False,65575,4,"# MCP Tool Lab 108
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900109,agent-lab-07,multimodal-agent-radar-109,agent-lab-07/multimodal-agent-radar-109,https://github.com/agent-lab-07/multimodal-agent-radar-109,Multimodal Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,multimodal|vision-language|agent,239,29,77,19,2026-04-16T03:08:27+00:00,2026-06-09T03:08:27+00:00,2026-06-08T03:08:27+00:00,MIT,main,True,True,True,False,76263,50,"# Multimodal Agent Lab 109
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900110,agent-lab-08,automl-agent-radar-110,agent-lab-08/automl-agent-radar-110,https://github.com/agent-lab-08/automl-agent-radar-110,AutoML Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,automl|mlops|agent,559,122,230,48,2026-05-20T03:08:27+00:00,2026-06-07T03:08:27+00:00,2026-06-04T03:08:27+00:00,BSD-3-Clause,main,True,False,True,False,64533,180,"# AutoML Agent Lab 110
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900111,agent-lab-09,data-agent-radar-111,agent-lab-09/data-agent-radar-111,https://github.com/agent-lab-09/data-agent-radar-111,Data Agent toolkit for AI Agent ecosystem analysis and course demos.,Jupyter Notebook,data-agent|analytics|pandas,6579,1115,3246,424,2024-03-19T03:08:27+00:00,2024-03-03T03:08:27+00:00,2024-02-29T03:08:27+00:00,NOASSERTION,main,True,False,True,False,31338,30,"# Data Agent Lab 111
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900112,agent-lab-10,coding-agent-radar-112,agent-lab-10/coding-agent-radar-112,https://github.com/agent-lab-10/coding-agent-radar-112,Coding Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,coding-agent|codex|automation,1115,63,740,30,2022-03-30T03:08:27+00:00,2026-05-28T03:08:27+00:00,2026-05-25T03:08:27+00:00,Apache-2.0,main,True,False,True,False,29927,18,"# Coding Agent Lab 112
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: coding-agent, codex, automation",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900113,agent-lab-11,rag-agent-radar-113,agent-lab-11/rag-agent-radar-113,https://github.com/agent-lab-11/rag-agent-radar-113,RAG Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,rag|llm|retrieval,468,39,183,53,2021-08-06T03:08:27+00:00,2025-11-13T03:08:27+00:00,2025-11-13T03:08:27+00:00,NOASSERTION,main,True,False,False,False,26090,12,"# RAG Agent Lab 113
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: rag, llm, retrieval",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900114,agent-lab-12,research-agent-radar-114,agent-lab-12/research-agent-radar-114,https://github.com/agent-lab-12/research-agent-radar-114,Research Agent toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,research-agent|paper|workflow,643,88,403,44,2026-03-23T03:08:27+00:00,2026-06-06T03:08:27+00:00,2026-06-02T03:08:27+00:00,BSD-3-Clause,main,True,False,False,False,56592,80,"# Research Agent Lab 114
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900115,agent-lab-13,workflow-agent-radar-115,agent-lab-13/workflow-agent-radar-115,https://github.com/agent-lab-13/workflow-agent-radar-115,Workflow Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,workflow-agent|orchestration|agentic-ai,2329,102,1460,31,2026-04-05T03:08:27+00:00,2026-06-10T03:08:27+00:00,2026-06-07T03:08:27+00:00,NOASSERTION,main,True,False,False,False,16540,465,"# Workflow Agent Lab 115
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900116,agent-lab-14,mcp-tool-radar-116,agent-lab-14/mcp-tool-radar-116,https://github.com/agent-lab-14/mcp-tool-radar-116,MCP Tool toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,mcp|tooling|developer-tools,4938,632,1831,291,2020-10-24T03:08:27+00:00,2024-03-26T03:08:27+00:00,2024-03-22T03:08:27+00:00,Apache-2.0,main,True,False,True,False,83209,19,"# MCP Tool Lab 116
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900117,agent-lab-15,multimodal-agent-radar-117,agent-lab-15/multimodal-agent-radar-117,https://github.com/agent-lab-15/multimodal-agent-radar-117,Multimodal Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,multimodal|vision-language|agent,1011,179,525,97,2024-07-07T03:08:27+00:00,2026-05-09T03:08:27+00:00,2026-05-07T03:08:27+00:00,BSD-3-Clause,main,True,False,True,False,58317,47,"# Multimodal Agent Lab 117
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: multimodal, vision-language, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900118,agent-lab-16,automl-agent-radar-118,agent-lab-16/automl-agent-radar-118,https://github.com/agent-lab-16/automl-agent-radar-118,AutoML Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,automl|mlops|agent,722,82,579,50,2022-08-14T03:08:27+00:00,2025-09-30T03:08:27+00:00,2025-09-26T03:08:27+00:00,BSD-3-Clause,main,True,False,False,False,1469,12,"# AutoML Agent Lab 118
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900119,agent-lab-00,data-agent-radar-119,agent-lab-00/data-agent-radar-119,https://github.com/agent-lab-00/data-agent-radar-119,Data Agent toolkit for AI Agent ecosystem analysis and course demos.,Jupyter Notebook,data-agent|analytics|pandas,339,22,160,12,2026-04-30T03:08:27+00:00,2026-06-08T03:08:27+00:00,2026-06-08T03:08:27+00:00,Apache-2.0,main,True,True,False,False,17979,89,"# Data Agent Lab 119
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900120,agent-lab-01,coding-agent-radar-120,agent-lab-01/coding-agent-radar-120,https://github.com/agent-lab-01/coding-agent-radar-120,Coding Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,coding-agent|codex|automation,2503,542,1886,51,2026-05-02T03:08:27+00:00,2026-06-05T03:08:27+00:00,2026-06-01T03:08:27+00:00,MIT,main,True,False,False,False,43274,638,"# Coding Agent Lab 120
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900121,agent-lab-02,rag-agent-radar-121,agent-lab-02/rag-agent-radar-121,https://github.com/agent-lab-02/rag-agent-radar-121,RAG Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,rag|llm|retrieval,3029,217,1667,70,2021-02-13T03:08:27+00:00,2024-06-25T03:08:27+00:00,2024-06-23T03:08:27+00:00,BSD-3-Clause,main,True,False,True,False,59019,6,"# RAG Agent Lab 121
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900122,agent-lab-03,research-agent-radar-122,agent-lab-03/research-agent-radar-122,https://github.com/agent-lab-03/research-agent-radar-122,Research Agent toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,research-agent|paper|workflow,1499,256,783,175,2026-05-24T03:08:27+00:00,2026-05-02T03:08:27+00:00,2026-05-01T03:08:27+00:00,MIT,main,True,False,False,False,5386,22,"# Research Agent Lab 122
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900123,agent-lab-04,workflow-agent-radar-123,agent-lab-04/workflow-agent-radar-123,https://github.com/agent-lab-04/workflow-agent-radar-123,Workflow Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,workflow-agent|orchestration|agentic-ai,308,58,130,68,2024-03-14T03:08:27+00:00,2025-03-30T03:08:27+00:00,2025-03-28T03:08:27+00:00,MIT,main,True,True,True,False,72283,7,"# Workflow Agent Lab 123
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900124,agent-lab-05,mcp-tool-radar-124,agent-lab-05/mcp-tool-radar-124,https://github.com/agent-lab-05/mcp-tool-radar-124,MCP Tool toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,mcp|tooling|developer-tools,186,36,106,4,2026-04-12T03:08:27+00:00,2026-06-07T03:08:27+00:00,2026-06-07T03:08:27+00:00,Apache-2.0,main,True,False,True,False,5510,20,"# MCP Tool Lab 124
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900125,agent-lab-06,multimodal-agent-radar-125,agent-lab-06/multimodal-agent-radar-125,https://github.com/agent-lab-06/multimodal-agent-radar-125,Multimodal Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,multimodal|vision-language|agent,802,126,242,73,2026-05-26T03:08:27+00:00,2026-06-14T03:08:27+00:00,2026-06-13T03:08:27+00:00,MIT,main,True,False,True,False,24742,235,"# Multimodal Agent Lab 125
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: multimodal, vision-language, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900126,agent-lab-07,automl-agent-radar-126,agent-lab-07/automl-agent-radar-126,https://github.com/agent-lab-07/automl-agent-radar-126,AutoML Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,automl|mlops|agent,3234,358,2349,189,2021-06-27T03:08:27+00:00,2025-08-13T03:08:27+00:00,2025-08-11T03:08:27+00:00,Apache-2.0,main,True,False,True,False,67723,27,"# AutoML Agent Lab 126
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: automl, mlops, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900127,agent-lab-08,data-agent-radar-127,agent-lab-08/data-agent-radar-127,https://github.com/agent-lab-08/data-agent-radar-127,Data Agent toolkit for AI Agent ecosystem analysis and course demos.,Jupyter Notebook,data-agent|analytics|pandas,254,19,66,10,2022-02-19T03:08:27+00:00,2026-05-26T03:08:27+00:00,2026-05-26T03:08:27+00:00,Apache-2.0,main,True,False,False,False,16440,5,"# Data Agent Lab 127
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900128,agent-lab-09,coding-agent-radar-128,agent-lab-09/coding-agent-radar-128,https://github.com/agent-lab-09/coding-agent-radar-128,Coding Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,coding-agent|codex|automation,756,48,359,57,2026-02-20T03:08:27+00:00,2025-01-16T03:08:27+00:00,2025-01-14T03:08:27+00:00,MIT,main,True,True,True,False,87823,22,"# Coding Agent Lab 128
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: coding-agent, codex, automation",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900129,agent-lab-10,rag-agent-radar-129,agent-lab-10/rag-agent-radar-129,https://github.com/agent-lab-10/rag-agent-radar-129,RAG Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,rag|llm|retrieval,339,53,202,12,2026-03-01T03:08:27+00:00,2026-06-14T03:08:27+00:00,2026-06-11T03:08:27+00:00,BSD-3-Clause,main,True,True,False,False,74706,43,"# RAG Agent Lab 129
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900130,agent-lab-11,research-agent-radar-130,agent-lab-11/research-agent-radar-130,https://github.com/agent-lab-11/research-agent-radar-130,Research Agent toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,research-agent|paper|workflow,966,123,705,26,2026-02-02T03:08:27+00:00,2026-06-04T03:08:27+00:00,2026-06-03T03:08:27+00:00,Apache-2.0,main,True,False,True,False,31888,108,"# Research Agent Lab 130
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900131,agent-lab-12,workflow-agent-radar-131,agent-lab-12/workflow-agent-radar-131,https://github.com/agent-lab-12/workflow-agent-radar-131,Workflow Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,workflow-agent|orchestration|agentic-ai,3892,376,958,156,2023-01-19T03:08:27+00:00,2025-06-18T03:08:27+00:00,2025-06-15T03:08:27+00:00,BSD-3-Clause,main,True,False,False,True,19735,13,"# Workflow Agent Lab 131
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900132,agent-lab-13,mcp-tool-radar-132,agent-lab-13/mcp-tool-radar-132,https://github.com/agent-lab-13/mcp-tool-radar-132,MCP Tool toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,mcp|tooling|developer-tools,975,195,833,69,2022-10-31T03:08:27+00:00,2026-05-06T03:08:27+00:00,2026-05-04T03:08:27+00:00,Apache-2.0,main,True,False,False,False,19993,18,"# MCP Tool Lab 132
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900133,agent-lab-14,multimodal-agent-radar-133,agent-lab-14/multimodal-agent-radar-133,https://github.com/agent-lab-14/multimodal-agent-radar-133,Multimodal Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,multimodal|vision-language|agent,281,22,139,37,2023-07-28T03:08:27+00:00,2025-05-10T03:08:27+00:00,2025-05-09T03:08:27+00:00,BSD-3-Clause,main,True,False,False,False,12814,5,"# Multimodal Agent Lab 133
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900134,agent-lab-15,automl-agent-radar-134,agent-lab-15/automl-agent-radar-134,https://github.com/agent-lab-15/automl-agent-radar-134,AutoML Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,automl|mlops|agent,158,7,99,1,2026-03-03T03:08:27+00:00,2026-06-12T03:08:27+00:00,2026-06-11T03:08:27+00:00,Apache-2.0,main,True,False,True,False,80042,25,"# AutoML Agent Lab 134
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900135,agent-lab-16,data-agent-radar-135,agent-lab-16/data-agent-radar-135,https://github.com/agent-lab-16/data-agent-radar-135,Data Agent toolkit for AI Agent ecosystem analysis and course demos.,Jupyter Notebook,data-agent|analytics|pandas,281,42,204,5,2025-12-29T03:08:27+00:00,2026-06-15T03:08:27+00:00,2026-06-15T03:08:27+00:00,NOASSERTION,main,True,False,True,False,62525,35,"# Data Agent Lab 135
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: data-agent, analytics, pandas",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900136,agent-lab-00,coding-agent-radar-136,agent-lab-00/coding-agent-radar-136,https://github.com/agent-lab-00/coding-agent-radar-136,Coding Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,coding-agent|codex|automation,5177,508,3956,338,2023-04-06T03:08:27+00:00,2025-05-01T03:08:27+00:00,2025-05-01T03:08:27+00:00,BSD-3-Clause,main,True,True,False,False,88094,7,"# Coding Agent Lab 136
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900137,agent-lab-01,rag-agent-radar-137,agent-lab-01/rag-agent-radar-137,https://github.com/agent-lab-01/rag-agent-radar-137,RAG Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,rag|llm|retrieval,848,123,284,16,2024-06-15T03:08:27+00:00,2026-05-24T03:08:27+00:00,2026-05-23T03:08:27+00:00,NOASSERTION,main,True,False,True,False,78060,25,"# RAG Agent Lab 137
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900138,agent-lab-02,research-agent-radar-138,agent-lab-02/research-agent-radar-138,https://github.com/agent-lab-02/research-agent-radar-138,Research Agent toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,research-agent|paper|workflow,2161,254,1843,152,2026-03-20T03:08:27+00:00,2025-05-09T03:08:27+00:00,2025-05-05T03:08:27+00:00,BSD-3-Clause,main,True,False,True,False,30170,26,"# Research Agent Lab 138
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900139,agent-lab-03,workflow-agent-radar-139,agent-lab-03/workflow-agent-radar-139,https://github.com/agent-lab-03/workflow-agent-radar-139,Workflow Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,workflow-agent|orchestration|agentic-ai,679,107,300,43,2026-04-17T03:08:27+00:00,2026-06-10T03:08:27+00:00,2026-06-09T03:08:27+00:00,MIT,main,True,False,True,False,9241,123,"# Workflow Agent Lab 139
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900140,agent-lab-04,mcp-tool-radar-140,agent-lab-04/mcp-tool-radar-140,https://github.com/agent-lab-04/mcp-tool-radar-140,MCP Tool toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,mcp|tooling|developer-tools,2099,296,1634,160,2026-04-30T03:08:27+00:00,2026-06-05T03:08:27+00:00,2026-06-03T03:08:27+00:00,Apache-2.0,main,True,True,True,False,16986,414,"# MCP Tool Lab 140
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900141,agent-lab-05,multimodal-agent-radar-141,agent-lab-05/multimodal-agent-radar-141,https://github.com/agent-lab-05/multimodal-agent-radar-141,Multimodal Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,multimodal|vision-language|agent,4755,526,966,342,2022-11-01T03:08:27+00:00,2024-07-28T03:08:27+00:00,2024-07-24T03:08:27+00:00,BSD-3-Clause,main,True,True,False,False,61493,7,"# Multimodal Agent Lab 141
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900142,agent-lab-06,automl-agent-radar-142,agent-lab-06/automl-agent-radar-142,https://github.com/agent-lab-06/automl-agent-radar-142,AutoML Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,automl|mlops|agent,728,140,148,52,2020-12-12T03:08:27+00:00,2026-05-21T03:08:27+00:00,2026-05-19T03:08:27+00:00,BSD-3-Clause,main,True,True,True,False,30299,34,"# AutoML Agent Lab 142
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900143,agent-lab-07,data-agent-radar-143,agent-lab-07/data-agent-radar-143,https://github.com/agent-lab-07/data-agent-radar-143,Data Agent toolkit for AI Agent ecosystem analysis and course demos.,Jupyter Notebook,data-agent|analytics|pandas,2703,239,1480,71,2021-02-22T03:08:27+00:00,2024-12-21T03:08:27+00:00,2024-12-18T03:08:27+00:00,MIT,main,True,True,False,False,86915,45,"# Data Agent Lab 143
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900144,agent-lab-08,coding-agent-radar-144,agent-lab-08/coding-agent-radar-144,https://github.com/agent-lab-08/coding-agent-radar-144,Coding Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,coding-agent|codex|automation,562,82,152,50,2026-02-20T03:08:27+00:00,2026-06-07T03:08:27+00:00,2026-06-06T03:08:27+00:00,Apache-2.0,main,True,True,True,False,43773,68,"# Coding Agent Lab 144
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900145,agent-lab-09,rag-agent-radar-145,agent-lab-09/rag-agent-radar-145,https://github.com/agent-lab-09/rag-agent-radar-145,RAG Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,rag|llm|retrieval,309,32,233,10,2026-02-25T03:08:27+00:00,2026-06-05T03:08:27+00:00,2026-06-05T03:08:27+00:00,MIT,main,True,False,True,False,6946,77,"# RAG Agent Lab 145
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900146,agent-lab-10,research-agent-radar-146,agent-lab-10/research-agent-radar-146,https://github.com/agent-lab-10/research-agent-radar-146,Research Agent toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,research-agent|paper|workflow,4695,627,1475,220,2024-09-14T03:08:27+00:00,2025-07-30T03:08:27+00:00,2025-07-28T03:08:27+00:00,BSD-3-Clause,main,True,True,True,True,34404,41,"# Research Agent Lab 146
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: research-agent, paper, workflow",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900147,agent-lab-11,workflow-agent-radar-147,agent-lab-11/workflow-agent-radar-147,https://github.com/agent-lab-11/workflow-agent-radar-147,Workflow Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,workflow-agent|orchestration|agentic-ai,910,121,302,22,2021-09-06T03:08:27+00:00,2026-05-19T03:08:27+00:00,2026-05-19T03:08:27+00:00,Apache-2.0,main,True,False,False,False,9435,30,"# Workflow Agent Lab 147
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900148,agent-lab-12,mcp-tool-radar-148,agent-lab-12/mcp-tool-radar-148,https://github.com/agent-lab-12/mcp-tool-radar-148,MCP Tool toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,mcp|tooling|developer-tools,803,172,650,52,2023-05-06T03:08:27+00:00,2024-11-18T03:08:27+00:00,2024-11-15T03:08:27+00:00,NOASSERTION,main,True,True,False,False,39069,19,"# MCP Tool Lab 148
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900149,agent-lab-13,multimodal-agent-radar-149,agent-lab-13/multimodal-agent-radar-149,https://github.com/agent-lab-13/multimodal-agent-radar-149,Multimodal Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,multimodal|vision-language|agent,280,61,194,41,2026-04-19T03:08:27+00:00,2026-06-15T03:08:27+00:00,2026-06-15T03:08:27+00:00,BSD-3-Clause,main,True,False,True,False,81346,55,"# Multimodal Agent Lab 149
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900150,agent-lab-14,automl-agent-radar-150,agent-lab-14/automl-agent-radar-150,https://github.com/agent-lab-14/automl-agent-radar-150,AutoML Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,automl|mlops|agent,1651,83,948,49,2026-05-19T03:08:27+00:00,2026-06-05T03:08:27+00:00,2026-06-01T03:08:27+00:00,MIT,main,True,False,True,False,78514,510,"# AutoML Agent Lab 150
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: automl, mlops, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900151,agent-lab-15,data-agent-radar-151,agent-lab-15/data-agent-radar-151,https://github.com/agent-lab-15/data-agent-radar-151,Data Agent toolkit for AI Agent ecosystem analysis and course demos.,Jupyter Notebook,data-agent|analytics|pandas,3247,696,1299,175,2023-01-05T03:08:27+00:00,2024-01-04T03:08:27+00:00,2024-01-01T03:08:27+00:00,MIT,main,True,False,True,True,9210,16,"# Data Agent Lab 151
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: data-agent, analytics, pandas",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900152,agent-lab-16,coding-agent-radar-152,agent-lab-16/coding-agent-radar-152,https://github.com/agent-lab-16/coding-agent-radar-152,Coding Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,coding-agent|codex|automation,1312,282,378,168,2022-05-18T03:08:27+00:00,2026-05-07T03:08:27+00:00,2026-05-03T03:08:27+00:00,NOASSERTION,main,True,True,False,False,49474,67,"# Coding Agent Lab 152
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900153,agent-lab-00,rag-agent-radar-153,agent-lab-00/rag-agent-radar-153,https://github.com/agent-lab-00/rag-agent-radar-153,RAG Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,rag|llm|retrieval,815,135,383,84,2024-02-01T03:08:27+00:00,2025-05-31T03:08:27+00:00,2025-05-29T03:08:27+00:00,Apache-2.0,main,True,False,False,False,35722,23,"# RAG Agent Lab 153
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900154,agent-lab-01,research-agent-radar-154,agent-lab-01/research-agent-radar-154,https://github.com/agent-lab-01/research-agent-radar-154,Research Agent toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,research-agent|paper|workflow,517,62,116,40,2026-05-27T03:08:27+00:00,2026-06-15T03:08:27+00:00,2026-06-12T03:08:27+00:00,Apache-2.0,main,True,False,True,False,19159,130,"# Research Agent Lab 154
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900155,agent-lab-02,workflow-agent-radar-155,agent-lab-02/workflow-agent-radar-155,https://github.com/agent-lab-02/workflow-agent-radar-155,Workflow Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,workflow-agent|orchestration|agentic-ai,1688,364,519,74,2025-12-21T03:08:27+00:00,2026-06-08T03:08:27+00:00,2026-06-06T03:08:27+00:00,MIT,main,True,True,False,False,14037,386,"# Workflow Agent Lab 155
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900156,agent-lab-03,mcp-tool-radar-156,agent-lab-03/mcp-tool-radar-156,https://github.com/agent-lab-03/mcp-tool-radar-156,MCP Tool toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,mcp|tooling|developer-tools,4977,759,3147,137,2025-03-27T03:08:27+00:00,2025-03-31T03:08:27+00:00,2025-03-29T03:08:27+00:00,NOASSERTION,main,True,True,True,False,85436,45,"# MCP Tool Lab 156
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900157,agent-lab-04,multimodal-agent-radar-157,agent-lab-04/multimodal-agent-radar-157,https://github.com/agent-lab-04/multimodal-agent-radar-157,Multimodal Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,multimodal|vision-language|agent,530,62,391,41,2025-08-21T03:08:27+00:00,2026-05-31T03:08:27+00:00,2026-05-30T03:08:27+00:00,MIT,main,True,True,False,False,17106,11,"# Multimodal Agent Lab 157
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900158,agent-lab-05,automl-agent-radar-158,agent-lab-05/automl-agent-radar-158,https://github.com/agent-lab-05/automl-agent-radar-158,AutoML Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,automl|mlops|agent,755,89,240,52,2022-09-21T03:08:27+00:00,2025-09-15T03:08:27+00:00,2025-09-12T03:08:27+00:00,BSD-3-Clause,main,True,True,True,False,17560,15,"# AutoML Agent Lab 158
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900159,agent-lab-06,data-agent-radar-159,agent-lab-06/data-agent-radar-159,https://github.com/agent-lab-06/data-agent-radar-159,Data Agent toolkit for AI Agent ecosystem analysis and course demos.,Jupyter Notebook,data-agent|analytics|pandas,428,56,231,18,2026-05-25T03:08:27+00:00,2026-06-11T03:08:27+00:00,2026-06-07T03:08:27+00:00,BSD-3-Clause,main,True,False,True,False,38421,83,"# Data Agent Lab 159
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900160,agent-lab-07,coding-agent-radar-160,agent-lab-07/coding-agent-radar-160,https://github.com/agent-lab-07/coding-agent-radar-160,Coding Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,coding-agent|codex|automation,564,27,466,18,2026-05-16T03:08:27+00:00,2026-06-07T03:08:27+00:00,2026-06-07T03:08:27+00:00,Apache-2.0,main,True,False,False,False,64773,88,"# Coding Agent Lab 160
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900161,agent-lab-08,rag-agent-radar-161,agent-lab-08/rag-agent-radar-161,https://github.com/agent-lab-08/rag-agent-radar-161,RAG Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,rag|llm|retrieval,4579,536,2938,249,2026-01-15T03:08:27+00:00,2024-06-02T03:08:27+00:00,2024-06-02T03:08:27+00:00,NOASSERTION,main,True,False,False,False,59897,31,"# RAG Agent Lab 161
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900162,agent-lab-09,research-agent-radar-162,agent-lab-09/research-agent-radar-162,https://github.com/agent-lab-09/research-agent-radar-162,Research Agent toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,research-agent|paper|workflow,565,65,404,37,2021-10-03T03:08:27+00:00,2026-05-16T03:08:27+00:00,2026-05-14T03:08:27+00:00,Apache-2.0,main,True,False,True,False,20022,16,"# Research Agent Lab 162
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900163,agent-lab-10,workflow-agent-radar-163,agent-lab-10/workflow-agent-radar-163,https://github.com/agent-lab-10/workflow-agent-radar-163,Workflow Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,workflow-agent|orchestration|agentic-ai,718,109,280,93,2022-10-31T03:08:27+00:00,2025-02-23T03:08:27+00:00,2025-02-19T03:08:27+00:00,BSD-3-Clause,main,True,False,False,False,86079,4,"# Workflow Agent Lab 163
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900164,agent-lab-11,mcp-tool-radar-164,agent-lab-11/mcp-tool-radar-164,https://github.com/agent-lab-11/mcp-tool-radar-164,MCP Tool toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,mcp|tooling|developer-tools,226,30,157,18,2026-05-20T03:08:27+00:00,2026-06-14T03:08:27+00:00,2026-06-11T03:08:27+00:00,NOASSERTION,main,True,False,True,False,32705,32,"# MCP Tool Lab 164
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900165,agent-lab-12,multimodal-agent-radar-165,agent-lab-12/multimodal-agent-radar-165,https://github.com/agent-lab-12/multimodal-agent-radar-165,Multimodal Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,multimodal|vision-language|agent,1451,91,361,37,2026-03-11T03:08:27+00:00,2026-06-13T03:08:27+00:00,2026-06-09T03:08:27+00:00,BSD-3-Clause,main,True,False,False,False,22230,244,"# Multimodal Agent Lab 165
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900166,agent-lab-13,automl-agent-radar-166,agent-lab-13/automl-agent-radar-166,https://github.com/agent-lab-13/automl-agent-radar-166,AutoML Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,automl|mlops|agent,2169,407,701,84,2021-09-24T03:08:27+00:00,2025-05-04T03:08:27+00:00,2025-05-03T03:08:27+00:00,Apache-2.0,main,True,False,False,False,35771,18,"# AutoML Agent Lab 166
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900167,agent-lab-14,data-agent-radar-167,agent-lab-14/data-agent-radar-167,https://github.com/agent-lab-14/data-agent-radar-167,Data Agent toolkit for AI Agent ecosystem analysis and course demos.,Jupyter Notebook,data-agent|analytics|pandas,795,70,327,9,2022-02-09T03:08:27+00:00,2026-06-05T03:08:27+00:00,2026-06-03T03:08:27+00:00,NOASSERTION,main,True,False,True,False,21850,20,"# Data Agent Lab 167
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: data-agent, analytics, pandas",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900168,agent-lab-15,coding-agent-radar-168,agent-lab-15/coding-agent-radar-168,https://github.com/agent-lab-15/coding-agent-radar-168,Coding Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,coding-agent|codex|automation,403,62,253,73,2023-03-08T03:08:27+00:00,2025-02-14T03:08:27+00:00,2025-02-10T03:08:27+00:00,Apache-2.0,main,True,True,True,False,81847,6,"# Coding Agent Lab 168
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900169,agent-lab-16,rag-agent-radar-169,agent-lab-16/rag-agent-radar-169,https://github.com/agent-lab-16/rag-agent-radar-169,RAG Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,rag|llm|retrieval,276,11,133,3,2026-03-10T03:08:27+00:00,2026-06-11T03:08:27+00:00,2026-06-09T03:08:27+00:00,Apache-2.0,main,True,True,True,False,50052,27,"# RAG Agent Lab 169
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval
+
+Topics: rag, llm, retrieval",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900170,agent-lab-00,research-agent-radar-170,agent-lab-00/research-agent-radar-170,https://github.com/agent-lab-00/research-agent-radar-170,Research Agent toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,research-agent|paper|workflow,3658,704,3010,490,2026-01-13T03:08:27+00:00,2026-06-13T03:08:27+00:00,2026-06-10T03:08:27+00:00,NOASSERTION,main,True,False,False,False,12234,571,"# Research Agent Lab 170
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow
+
+Topics: research-agent, paper, workflow",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900171,agent-lab-01,workflow-agent-radar-171,agent-lab-01/workflow-agent-radar-171,https://github.com/agent-lab-01/workflow-agent-radar-171,Workflow Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,workflow-agent|orchestration|agentic-ai,3472,354,1107,145,2024-01-02T03:08:27+00:00,2024-08-15T03:08:27+00:00,2024-08-12T03:08:27+00:00,Apache-2.0,main,True,False,False,False,5968,22,"# Workflow Agent Lab 171
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900172,agent-lab-02,mcp-tool-radar-172,agent-lab-02/mcp-tool-radar-172,https://github.com/agent-lab-02/mcp-tool-radar-172,MCP Tool toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,mcp|tooling|developer-tools,676,109,519,19,2022-08-23T03:08:27+00:00,2026-05-04T03:08:27+00:00,2026-05-04T03:08:27+00:00,NOASSERTION,main,True,False,True,False,82265,34,"# MCP Tool Lab 172
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools
+
+Topics: mcp, tooling, developer-tools",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900173,agent-lab-03,multimodal-agent-radar-173,agent-lab-03/multimodal-agent-radar-173,https://github.com/agent-lab-03/multimodal-agent-radar-173,Multimodal Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,multimodal|vision-language|agent,375,30,144,41,2021-10-22T03:08:27+00:00,2025-12-10T03:08:27+00:00,2025-12-06T03:08:27+00:00,MIT,main,True,False,True,False,39380,9,"# Multimodal Agent Lab 173
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: multimodal, vision-language, agent
+
+Topics: multimodal, vision-language, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900174,agent-lab-04,automl-agent-radar-174,agent-lab-04/automl-agent-radar-174,https://github.com/agent-lab-04/automl-agent-radar-174,AutoML Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,automl|mlops|agent,551,59,111,34,2026-05-09T03:08:27+00:00,2026-06-08T03:08:27+00:00,2026-06-07T03:08:27+00:00,BSD-3-Clause,main,True,True,False,False,89471,137,"# AutoML Agent Lab 174
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent
+
+Topics: automl, mlops, agent",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900175,agent-lab-05,data-agent-radar-175,agent-lab-05/data-agent-radar-175,https://github.com/agent-lab-05/data-agent-radar-175,Data Agent toolkit for AI Agent ecosystem analysis and course demos.,Jupyter Notebook,data-agent|analytics|pandas,2331,130,1072,39,2026-05-20T03:08:27+00:00,2026-06-07T03:08:27+00:00,2026-06-06T03:08:27+00:00,BSD-3-Clause,main,True,False,False,False,16214,535,"# Data Agent Lab 175
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas
+
+Topics: data-agent, analytics, pandas",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900176,agent-lab-06,coding-agent-radar-176,agent-lab-06/coding-agent-radar-176,https://github.com/agent-lab-06/coding-agent-radar-176,Coding Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,coding-agent|codex|automation,2966,461,1448,229,2025-03-26T03:08:27+00:00,2024-06-06T03:08:27+00:00,2024-06-06T03:08:27+00:00,NOASSERTION,main,True,True,False,True,83162,15,"# Coding Agent Lab 176
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation
+
+Topics: coding-agent, codex, automation",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900177,agent-lab-07,rag-agent-radar-177,agent-lab-07/rag-agent-radar-177,https://github.com/agent-lab-07/rag-agent-radar-177,RAG Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,rag|llm|retrieval,476,27,156,9,2025-12-22T03:08:27+00:00,2026-06-04T03:08:27+00:00,2026-06-03T03:08:27+00:00,Apache-2.0,main,True,False,False,False,26617,22,"# RAG Agent Lab 177
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: rag, llm, retrieval",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900178,agent-lab-08,research-agent-radar-178,agent-lab-08/research-agent-radar-178,https://github.com/agent-lab-08/research-agent-radar-178,Research Agent toolkit for AI Agent ecosystem analysis and course demos.,TypeScript,research-agent|paper|workflow,571,50,168,46,2025-04-02T03:08:27+00:00,2025-01-29T03:08:27+00:00,2025-01-28T03:08:27+00:00,MIT,main,True,True,True,False,36662,13,"# Research Agent Lab 178
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+Requires GPU acceleration and multiple API key providers.
+
+Experimental status; issues may be stale.
+
+Topics: research-agent, paper, workflow",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
+900179,agent-lab-09,workflow-agent-radar-179,agent-lab-09/workflow-agent-radar-179,https://github.com/agent-lab-09/workflow-agent-radar-179,Workflow Agent toolkit for AI Agent ecosystem analysis and course demos.,Python,workflow-agent|orchestration|agentic-ai,305,14,228,2,2026-05-12T03:08:27+00:00,2026-06-07T03:08:27+00:00,2026-06-04T03:08:27+00:00,MIT,main,True,False,False,False,82631,51,"# Workflow Agent Lab 179
+
+This project explores AI agent workflows for learning, automation, and reproducible experiments.
+
+## Installation
+pip install -r requirements.txt
+
+## Quickstart
+Run python main.py to launch the demo.
+
+## Demo
+Includes examples and screenshots.
+
+## CPU Friendly
+Runs on CPU-only Windows 11 environments.
+
+## Docker
+A Dockerfile example is provided.
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai
+
+Topics: workflow-agent, orchestration, agentic-ai",2026-06-15T03:08:27+00:00,sample_fallback,sample_fallback
